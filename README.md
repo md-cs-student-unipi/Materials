@@ -10,7 +10,7 @@ ADVANCED PROGRAMMING
 
 ADVANCED SOFTWARE ENGINEERING
 -----------------------------
-[**Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - community, feel free to integrate your notes and keep the repo updated.
+- [**Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - community, feel free to integrate your notes and keep the repo updated.
 
 ALGORITHM DESIGN
 -------------------
