@@ -17,14 +17,20 @@ ALGORITHM DESIGN
 ALGORITHM ENGINEERING
 -------------------
 
+- [AlgorithmEngineering](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of all the algorithms seen in the course
+
 ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 -------------------
 
 BIOINFORMATICS
 -------------------
 
+- [TwoPaCo](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
+
 COMPETITIVE PROGRAMMING AND CONTESTS
 -------------------
+
+- [cpc-exam](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks
 
 COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 -------------------
@@ -38,6 +44,8 @@ COMPUTATIONAL NEUROSCIENCE
 DATA MINING
 -------------------
 
+- [Credit Card Defaul](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Notebook and report of the project "Credit Card Default" (2018/2019)
+
 FOUNDATION OF COMPUTING
 -------------------
 
@@ -46,6 +54,8 @@ HUMAN LANGUAGE TECHNOLOGIES
 
 ICT INFRASTRUCTURES
 -------------------
+
+- [ICT-infrastructure](https://github.com/alessandro308/ICT-infrastructure) - [alessandro308](https://github.com/alessandro308) - Note of the course
 
 ICT RISK ASSESSMENT
 -------------------
@@ -71,6 +81,8 @@ MOBILE AND CYBER-PHYSICAL SYSTEMS
 PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 -------------------
 
+- [ParallelPrefix](https://github.com/GaspareG/ParallelPrefix) - [GaspareG](https://github.com/GaspareG) - Implementation and report the ParallelPrefix project (2017/2018)
+
 PEER TO PEER SYSTEMS AND BLOCKCHAINS
 -------------------
 
@@ -82,6 +94,8 @@ ROBOTICS
 
 SCIENTIFIC AND LARGE DATA VISUALIZATION
 -------------------
+
+- [dblp.info](https://github.com/GaspareG/dblp.info) - [GaspareG](https://github.com/GaspareG) - Exam project of exam, source code of [dblp.info](https://dblp.info): a data visualization website about dblp data.
 
 SECURITY METHODS AND VERIFICATION
 -------------------
