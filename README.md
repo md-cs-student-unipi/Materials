@@ -1,15 +1,16 @@
 # Master Degree in Computer Science @ Unipi
-
 Collection of useful repositories divided per exam
 
 ADVANCED DATABASES
 -------------------
 
 ADVANCED PROGRAMMING
--------------------
+--------------------
+- [**Notes**](https://github.com/md-cs-student-unipi/Advanced-Programming) - community, feel free to integrate your notes and keep the repo updated.
 
 ADVANCED SOFTWARE ENGINEERING
--------------------
+-----------------------------
+[**Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - community, feel free to integrate your notes and keep the repo updated.
 
 ALGORITHM DESIGN
 -------------------
@@ -54,7 +55,7 @@ HUMAN LANGUAGE TECHNOLOGIES
 
 ICT INFRASTRUCTURES
 -------------------
-
+- [**Notes**](https://github.com/giacomodeliberali/ict-infrastructures) - community, forked from alessandro308's.
 - [ICT-infrastructure](https://github.com/alessandro308/ICT-infrastructure) - [alessandro308](https://github.com/alessandro308) - Note of the course
 
 ICT RISK ASSESSMENT
