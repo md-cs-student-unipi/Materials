@@ -78,6 +78,7 @@ MACHINE LEARNING
 
 MOBILE AND CYBER-PHYSICAL SYSTEMS
 -------------------
+- [eWee](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [dtortorella](https://github.com/dtortorella), [samuelesabella](https://github.com/samuelesabella) - Home automation project: user wellness and energy efficience.
 
 PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 -------------------
