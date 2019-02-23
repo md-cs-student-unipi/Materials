@@ -36,6 +36,8 @@ COMPETITIVE PROGRAMMING AND CONTESTS
 COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 -------------------
 
+- [cmproject](https://bitbucket.org/melfnt/cmproject) Lucio Messina and Ivan Carosi - compue efficiently the QR factorization of a matrix (A|X) given the QR factorization of A (a.a. 2018/19 project 14 NoML).
+
 COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 -------------------
 
@@ -83,7 +85,8 @@ MOBILE AND CYBER-PHYSICAL SYSTEMS
 PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 -------------------
 
-- [ParallelPrefix](https://github.com/GaspareG/ParallelPrefix) - [GaspareG](https://github.com/GaspareG) - Implementation and report the ParallelPrefix project (2017/2018)
+- [ParallelPrefix](https://github.com/GaspareG/ParallelPrefix) - [GaspareG](https://github.com/GaspareG) - Implementation and report the ParallelPrefix project (2017/2018).
+- [aco-tsp](https://bitbucket.org/melfnt/aco-tsp) -Lucio Messina - implementation and report of the aco tsp project (a.a. 2017/18).
 
 PEER TO PEER SYSTEMS AND BLOCKCHAINS
 -------------------
@@ -98,6 +101,7 @@ SCIENTIFIC AND LARGE DATA VISUALIZATION
 -------------------
 
 - [dblp.info](https://github.com/GaspareG/dblp.info) - [GaspareG](https://github.com/GaspareG) - Exam project of exam, source code of [dblp.info](https://dblp.info): a data visualization website about dblp data.
+- [d3-edge-crossing-minimization](https://bitbucket.org/melfnt/d3-edge-crossing-minimization) - Lucio Messina - draw graphs minimising the number of edge crossings (a.a. 2017/18).
 
 SECURITY METHODS AND VERIFICATION
 -------------------
