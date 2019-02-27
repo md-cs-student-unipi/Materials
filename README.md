@@ -19,6 +19,7 @@ ALGORITHM ENGINEERING
 -------------------
 
 - [AlgorithmEngineering](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of all the algorithms seen in the course
+- [ALE-exercises](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - Solved exercises of past exams
 
 ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 -------------------
@@ -66,6 +67,8 @@ ICT RISK ASSESSMENT
 INFORMATION RETRIEVAL
 -------------------
 
+- [IR-exercises](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - Solved exercises of past exams
+
 INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 -------------------
 
@@ -90,6 +93,8 @@ PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 
 PEER TO PEER SYSTEMS AND BLOCKCHAINS
 -------------------
+
+- [P2PBC-project](https://github.com/flandolfi/P2PBC-project) - [flandolfi](https://github.com/flandolfi) - Implementation and simulation of the Newscast protocol
 
 PRINCIPLES FOR SOFTWARE COMPOSITION
 -------------------
