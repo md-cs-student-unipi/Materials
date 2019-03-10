@@ -92,6 +92,7 @@ PEER TO PEER SYSTEMS AND BLOCKCHAINS
 -------------------
 
 - [COBrA_Dapps](https://github.com/Brotherhood94/COBrA_Dapps) - [Brothehood94](https://github.com/Brotherhood94) - COBrA: Fair COntent Trade on the BlockchAin project (2017/2018)
+- [Chord](https://github.com/Brotherhood94/Chord) - [Brotherhood94](https://github.com/Brotherhood94) - Chord DHT MidTerm project (2017/2018)
 
 PRINCIPLES FOR SOFTWARE COMPOSITION
 -------------------
