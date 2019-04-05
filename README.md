@@ -88,6 +88,7 @@ PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 - [ParallelPrefix](https://github.com/GaspareG/ParallelPrefix) - [GaspareG](https://github.com/GaspareG) - Implementation and report the ParallelPrefix project (2017/2018).
 - [aco-tsp](https://bitbucket.org/melfnt/aco-tsp) -Lucio Messina - implementation and report of the aco tsp project (a.a. 2017/18).
 - [PDS-Docker](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh. Can be used to compile projects for the course. 
+- [ImageWatermarking](https://github.com/magemma/Image-Watermarking) - [magemma](https://github.com/magemma) - Implementation and report of the ImageWatermarking project (2017/2018).
 
 PEER TO PEER SYSTEMS AND BLOCKCHAINS
 -------------------
