@@ -95,7 +95,7 @@ PEER TO PEER SYSTEMS AND BLOCKCHAINS
 
 - [COBrA_Dapps](https://github.com/Brotherhood94/COBrA_Dapps) - [Brothehood94](https://github.com/Brotherhood94) - COBrA: Fair COntent Trade on the BlockchAin project (2017/2018)
 - [Chord](https://github.com/Brotherhood94/Chord) - [Brotherhood94](https://github.com/Brotherhood94) - Chord DHT MidTerm project (2017/2018)
-- - [Analysing Kademlia DHT](https://github.com/bongi23/Analysing-the-Kademlia-DHT) - [bongi23](https://github.com/bongi23) - Kademlia DHT MidTerm project (2018/2019)
+- [Analysing Kademlia DHT](https://github.com/bongi23/Analysing-the-Kademlia-DHT) - [bongi23](https://github.com/bongi23) - Kademlia DHT MidTerm project (2018/2019)
 
 
 PRINCIPLES FOR SOFTWARE COMPOSITION
