@@ -4,7 +4,8 @@ Collection of useful repositories divided per exam
 ADVANCED DATABASES
 -------------------
 
-- [**Formulary**](https://github.com/md-cs-student-unipi/Advance-Databases-Formulary/blob/master/README.md) - [GaspareG](https://github.com/GaspareG) - Physical operators cost and result size
+- [**Formulary**](https://github.com/md-cs-student-unipi/Advance-Databases-Formulary/) - [GaspareG](https://github.com/GaspareG) - Physical operators cost and result size
+
 ADVANCED PROGRAMMING
 --------------------
 - [**Notes**](https://github.com/md-cs-student-unipi/Advanced-Programming) - community, feel free to integrate your notes and keep the repo updated.
