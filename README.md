@@ -5,6 +5,7 @@ ADVANCED DATABASES
 -------------------
 
 - [**Formulary**](https://github.com/md-cs-student-unipi/Advance-Databases-Formulary/) - [GaspareG](https://github.com/GaspareG) - Physical operators cost and result size
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Advanced%20Database) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
 
 ADVANCED PROGRAMMING
 --------------------
@@ -23,7 +24,8 @@ ALGORITHM DESIGN
 ALGORITHM ENGINEERING
 -------------------
 
-- [**AlgorithmEngineering**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of all the algorithms seen in the course
+- [**AlgorithmEngineering**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some (~~all~~) the algorithms seen in the course.
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
 
 ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 -------------------
@@ -55,7 +57,10 @@ COMPUTATIONAL NEUROSCIENCE
 DATA MINING
 -------------------
 
-- [**Credit Card Default**](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Notebook and report of the project "Credit Card Default" (2018/2019)
+- [**Credit Card Default**](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Notebook and report of the project "Credit Card Default" (2018/2019).
+- [**DataMiningProject2018**](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci) -  Data Mining project (2018-19).
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+
 
 FOUNDATION OF COMPUTING
 -------------------
@@ -73,6 +78,7 @@ ICT RISK ASSESSMENT
 
 INFORMATION RETRIEVAL
 -------------------
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
 
 INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 -------------------
@@ -105,6 +111,7 @@ PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 - [**pds-unipi**](https://github.com/giacomodeliberali/pds-unipi) - 
 - [**ImgWatermark**](https://github.com/antonio-sisbarra/ImgWatermark) - C++ project for Parallel Systems course. It applies a watermark to a set of images
 - [**spm**](https://github.com/galatea058/spm) - 
+- [**Assignments2018**](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci) - Assignments and Project of the Course Parallel and Distributed Systems: Paradigms and Models (2018-19).
 
 PEER TO PEER SYSTEMS AND BLOCKCHAINS
 -------------------
@@ -117,6 +124,8 @@ PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [**smart-auctions**](https://github.com/giacomodeliberali/smart-auctions) - Dutch and Vickery auctions on the Ethereum blockchain
 - [**smartAuction**](https://github.com/deRemo/smartAuction) - Implementation of the English and Vickery Auction using Solidity.
 - [**COBrA**](https://github.com/daquinoaldo/COBrA) - COBrA: Fair COntent Trade on the BlockchAin
+- [**Analysing-the-Kademlia-DHT**](https://github.com/lucacorbucci/Analysing-the-Kademlia-DHT) - [lucacorbucci](https://github.com/lucacorbucci/Analysing-the-Kademlia-DHT) - Analysing the Kademlia DHT, Peer to Peer Systems and Blockchains Midterm, Academic Year 2018-19.
+- [**SmartAuctions**](https://github.com/lucacorbucci/SmartAuctions) - [lucacorbucci](https://github.com/lucacorbucci) - final term and the final project developed for the "Peer to Peer Systems and Blockchains" course. 
 
 PRINCIPLES FOR SOFTWARE COMPOSITION
 -------------------
