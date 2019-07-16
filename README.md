@@ -5,7 +5,7 @@ ADVANCED DATABASES
 -------------------
 
 - [**Formulary**](https://github.com/md-cs-student-unipi/Advance-Databases-Formulary/) - [GaspareG](https://github.com/GaspareG) - Physical operators cost and result size
-- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Advanced%20Database) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Advanced%20Database) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
 
 ADVANCED PROGRAMMING
 --------------------
@@ -25,7 +25,7 @@ ALGORITHM ENGINEERING
 -------------------
 
 - [**AlgorithmEngineering**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some (~~all~~) the algorithms seen in the course.
-- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [httpslucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
 
 ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 -------------------
@@ -59,7 +59,7 @@ DATA MINING
 
 - [**Credit Card Default**](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Notebook and report of the project "Credit Card Default" (2018/2019).
 - [**DataMiningProject2018**](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci) -  Data Mining project (2018-19).
-- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
 
 
 FOUNDATION OF COMPUTING
@@ -78,7 +78,7 @@ ICT RISK ASSESSMENT
 
 INFORMATION RETRIEVAL
 -------------------
-- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [https://github.com/lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
 
 INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 -------------------
