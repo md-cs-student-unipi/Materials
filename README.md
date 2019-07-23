@@ -20,6 +20,7 @@ ADVANCED SOFTWARE ENGINEERING
 
 ALGORITHM DESIGN
 -------------------
+- [**The_Power_of_Two_Choices**](https://github.com/guanaco96/The_Power_of_Two_Choices) - [guanaco96](https://github.com/guanaco96) This is a report devoted to the Algorithm Design course, UniPi, 2018-19
 
 ALGORITHM ENGINEERING
 -------------------
@@ -40,6 +41,7 @@ COMPETITIVE PROGRAMMING AND CONTESTS
 
 - [**cpc-exam**](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks
 - [**CompetitiveProgramming**](https://github.com/lapotolo/CompetitiveProgramming) - 
+- [**Competitive-Programming**](https://github.com/guanaco96/Competitive-Programming) - [guanaco96](https://github.com/guanaco96/) This repository is devoted to homework evaluation
 
 COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 -------------------
@@ -47,6 +49,7 @@ COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 - [**cmproject**](https://bitbucket.org/melfnt/cmproject) Lucio Messina and Ivan Carosi - Compute efficiently the QR factorization of a matrix (A|X) given the QR factorization of A (a.a. 2018/19 project 14 NoML).
 - [**CMLDA**](https://github.com/germz01/CMLDA) - Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm.
 - [**CMProject**](https://github.com/MarioBonse/CMProject) - 2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms.
+- [**Quadratic_Min-Cost_Flow**](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) This is a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
 
 COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 -------------------
@@ -75,6 +78,8 @@ ICT INFRASTRUCTURES
 
 ICT RISK ASSESSMENT
 -------------------
+- [**LightNeuron-beamer**](https://github.com/hybrs/LightNeuron-beamer) - [hybrs](https://github.com/hybrs) Beamer presentation on TURLA LIGHTNEURON for ICT Risk Assessment Course @ Unipi
+- [**OpenSSH-Backdoors**](https://github.com/GaspareG/OpenSSH-Backdoors) - [GaspareG](https://github.com/GaspareG) A landscape of OpenSSH backdoors - Seminar for ICT Risk Assessment exam @ UniPi
 
 INFORMATION RETRIEVAL
 -------------------
@@ -96,6 +101,7 @@ MACHINE LEARNING
 
 - [**MachineLearningProject**](https://github.com/MarioBonse/MachineLearningProject) - 
 - [**NNLib**](https://github.com/deRemo/NNLib) - Neural Network (MLP) implementation
+- [**ML_project**](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96) Repository devoted to A. Micheli exam compliances
 
 MOBILE AND CYBER-PHYSICAL SYSTEMS
 -------------------
