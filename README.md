@@ -21,7 +21,7 @@ ADVANCED SOFTWARE ENGINEERING
 ALGORITHM DESIGN
 -------------------
 - [**The_Power_of_Two_Choices**](https://github.com/guanaco96/The_Power_of_Two_Choices) - [guanaco96](https://github.com/guanaco96) This is a report devoted to the Algorithm Design course, UniPi, 2018-19
-- [**An FPT Algorithm for Approximated Threewidth**](https://github.com/laurab1/Approximated-Threewidth-Report) - [laurab1](https://github.com/laurab1) Final report for Algorithm Design course, Unipi, 2018/19
+- [**An_FPT_Algorithm_for_Approximated_Threewidth**](https://github.com/laurab1/Approximated-Threewidth-Report) - [laurab1](https://github.com/laurab1) Final report for Algorithm Design course, Unipi, 2018/19
 
 ALGORITHM ENGINEERING
 -------------------
