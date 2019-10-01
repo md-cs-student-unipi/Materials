@@ -68,7 +68,7 @@ DATA MINING
 
 FOUNDATION OF COMPUTING
 -------------------
-- [**Decomposition_Structures_for_SCEPs**](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - Seminar for Foundation of Computing final exam, Unipi, 2018/19.
+- [**Decomposition_Structures_for_SCEPs**](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for Foundation of Computing final exam, Unipi, 2018/19.
 
 HUMAN LANGUAGE TECHNOLOGIES
 -------------------
@@ -149,7 +149,7 @@ SCIENTIFIC AND LARGE DATA VISUALIZATION
 
 SECURITY METHODS AND VERIFICATION
 -------------------
-- [**A_Process_Algebra_for_Quantum_Processes**](https://github.com/laurab1/A-Process-Algebra-for-Quantum-Processes) Seminar for Security Methods and Verification final exam, Unipi, 2018/19.
+- [**A_Process_Algebra_for_Quantum_Processes**](https://github.com/laurab1/A-Process-Algebra-for-Quantum-Processes) - [laurab1](https://github.com/laurab1) - Seminar for Security Methods and Verification final exam, Unipi, 2018/19.
 
 SEMANTIC WEB
 -------------------
