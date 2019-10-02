@@ -121,7 +121,7 @@ PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 - [**spm**](https://github.com/galatea058/spm) - 
 - [**Assignments2018**](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci) - Assignments and Project of the Course Parallel and Distributed Systems: Paradigms and Models (2018-19).
 - [**Autonomic Farm Pattern**](https://github.com/lucacorbucci/Autonomic-Farm-Pattern) - [lucacorbucci](https://github.com/lucacorbucci) - Parallel and Distributed Systems: Paradigms and Models Final Project (2018-19)
-- [**Appunti**] (https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci) and [Brothehood94](https://github.com/Brotherhood94) - notes of the course (italian).
+- [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci) and [Brothehood94](https://github.com/Brotherhood94) - notes of the course (italian).
 
 PEER TO PEER SYSTEMS AND BLOCKCHAINS
 -------------------
