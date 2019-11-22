@@ -86,6 +86,7 @@ ICT RISK ASSESSMENT
 INFORMATION RETRIEVAL
 -------------------
 - [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**Notes 2019**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) Notes of the course (english).
 
 INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 -------------------
