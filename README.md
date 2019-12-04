@@ -28,6 +28,7 @@ ALGORITHM ENGINEERING
 
 - [**AlgorithmEngineering**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some (~~all~~) the algorithms seen in the course.
 - [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [httpslucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**ALE-exericses**](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams.
 
 ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 -------------------
@@ -86,6 +87,7 @@ ICT RISK ASSESSMENT
 INFORMATION RETRIEVAL
 -------------------
 - [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**IR-exericses**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams.
 
 INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 -------------------
