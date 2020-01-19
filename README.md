@@ -103,7 +103,10 @@ MACHINE LEARNING
 
 - [**MachineLearningProject**](https://github.com/MarioBonse/MachineLearningProject) - 
 - [**NNLib**](https://github.com/deRemo/NNLib) - Neural Network (MLP) implementation
-- [**ML_project**](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96) Repository devoted to A. Micheli exam compliances
+- [**ML_project**](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96) Repository devoted to 
+A. Micheli exam compliances
+- [**ml-notes**](https://github.com/wikilele/ml-notes) - [wikilele](https://github.com/wikilele) summary done while preparing for the exam
+
 
 MOBILE AND CYBER-PHYSICAL SYSTEMS
 -------------------
