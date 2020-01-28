@@ -109,7 +109,7 @@ MACHINE LEARNING
 MOBILE AND CYBER-PHYSICAL SYSTEMS
 -------------------
 - [**eWee**](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [dtortorella](https://github.com/dtortorella), [samuelesabella](https://github.com/samuelesabella) - Home automation project: user wellness and energy efficience.
-- [**SmartCoffee**](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo)  - IoT + AI to remove queue.
+- [**SmartCoffee**](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo)  - IoT + AI to remove queues.
 
 PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 -------------------
