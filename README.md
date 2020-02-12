@@ -14,6 +14,7 @@ Collection of useful repositories divided per exam
 
 ## ADVANCED SOFTWARE ENGINEERING
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
+- [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
 
 ## ALGORITHM DESIGN
 - [_The Power of Two Choices_](https://github.com/guanaco96/The_Power_of_Two_Choices) - [guanaco96](https://github.com/guanaco96) - Final report 2018-19
@@ -112,6 +113,8 @@ Collection of useful repositories divided per exam
 - [_COBrA_](https://github.com/daquinoaldo/COBrA) - [daquinoaldo](https://github.com/daquinoaldo) - Project 2017-18 (blockchain)
 - [_DynamicOverlayGenerator_](https://github.com/antonio-sisbarra/DynamicOverlayGenerator) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18 (graph analysis)
 - [_Chord_](https://github.com/Brotherhood94/Chord) - [Brotherhood94](https://github.com/Brotherhood94) - MidTerm 2017-18
+- [_ChordDHTSimulator_](https://github.com/daquinoaldo/ChordDHTSimulator) - [daquinoaldo](https://github.com/daquinoaldo) - MidTerm 2017-18
+
 
 ## PRINCIPLES FOR SOFTWARE COMPOSITION
 - Be the first to contribute, open a pull request with your material!
@@ -130,7 +133,8 @@ Collection of useful repositories divided per exam
 - Be the first to contribute, open a pull request with your material!
 
 ## SMART APPLICATIONS
-- Be the first to contribute, open a pull request with your material!
+- [_RoboComment_](https://github.com/SmartAppUnipi/RoboComment) - Project 2019-20 (A)
+- [_ArtGuide_](https://github.com/SmartAppUnipi/ArtGuide) - Project 2019-20 (B)
 
 ## SOCIAL AND ETHICAL ISSUES IN INFORMATION TECHNOLOGY
 - Be the first to contribute, open a pull request with your material!
