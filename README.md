@@ -12,7 +12,8 @@ ADVANCED PROGRAMMING
 - [**Notes**](https://github.com/md-cs-student-unipi/Advanced-Programming) - community, feel free to integrate your notes and keep the repo updated.
 - [**AdvancedProgramming**](https://github.com/LorenzoBellomo/AdvancedProgramming) - Advanced Programming course exercises from AA 2018/2019
 - [**advanced-programming1819**](https://github.com/lapotolo/advanced-programming1819) - Exercises and assigments for Advanced Programming course, Universita' di Pisa a.y. 2018/2019
-- [**adv-programming**](https://github.com/giacomodeliberali/adv-programming) - 
+- [**adv-programming**](https://github.com/giacomodeliberali/adv-programming) -
+- [**Advanced-Programming-2018**](https://github.com/andybbruno/Advanced-Programming-2018) - Exercises and assignments of AP-18 (University of Pisa). Java, Haskell and Python code.
 
 ADVANCED SOFTWARE ENGINEERING
 -----------------------------
@@ -65,7 +66,7 @@ DATA MINING
 - [**Credit Card Default**](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Notebook and report of the project "Credit Card Default" (2018/2019).
 - [**DataMiningProject2018**](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci) -  Data Mining project (2018-19).
 - [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
-
+- [**Carvana Car Auctions**](https://github.com/andybbruno/DataMining) - Project of Data Mining 2019/2020 UniPi (Code + Report)
 
 FOUNDATION OF COMPUTING
 -------------------
@@ -87,6 +88,7 @@ ICT RISK ASSESSMENT
 INFORMATION RETRIEVAL
 -------------------
 - [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
+- [**Notes 2019**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) Notes of the course (english).
 - [**IR-exericses**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams.
 
 INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
@@ -105,11 +107,15 @@ MACHINE LEARNING
 
 - [**MachineLearningProject**](https://github.com/MarioBonse/MachineLearningProject) - 
 - [**NNLib**](https://github.com/deRemo/NNLib) - Neural Network (MLP) implementation
-- [**ML_project**](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96) Repository devoted to A. Micheli exam compliances
+- [**ML_project**](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96) Repository devoted to 
+A. Micheli exam compliances
+- [**ml-notes**](https://github.com/wikilele/ml-notes) - [wikilele](https://github.com/wikilele) summary done while preparing for the exam
+
 
 MOBILE AND CYBER-PHYSICAL SYSTEMS
 -------------------
 - [**eWee**](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [dtortorella](https://github.com/dtortorella), [samuelesabella](https://github.com/samuelesabella) - Home automation project: user wellness and energy efficience.
+- [**SmartCoffee**](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo)  - IoT + AI to remove queues.
 
 PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 -------------------
@@ -122,7 +128,9 @@ PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 - [**ImgWatermark**](https://github.com/antonio-sisbarra/ImgWatermark) - C++ project for Parallel Systems course. It applies a watermark to a set of images
 - [**spm**](https://github.com/galatea058/spm) - 
 - [**Assignments2018**](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci) - Assignments and Project of the Course Parallel and Distributed Systems: Paradigms and Models (2018-19).
+- [**Assignments2018**](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [Brotherhood94](https://github.com/Brotherhood94) - Assignments and Project of the Course Parallel and Distributed Systems: Paradigms and Models (2018-19).
 - [**Autonomic Farm Pattern**](https://github.com/lucacorbucci/Autonomic-Farm-Pattern) - [lucacorbucci](https://github.com/lucacorbucci) - Parallel and Distributed Systems: Paradigms and Models Final Project (2018-19)
+- [**Autonomic Farm Pattern**](https://github.com/Brotherhood94/Autonomic_Farm_Pattern) - [Brotherhood94](https://github.com/Brotherhood94) - Parallel and Distributed Systems: Paradigms and Models Final Project (2018-19)
 - [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci) and [Brothehood94](https://github.com/Brotherhood94) - notes of the course (italian).
 
 PEER TO PEER SYSTEMS AND BLOCKCHAINS
