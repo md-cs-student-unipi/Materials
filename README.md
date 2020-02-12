@@ -12,7 +12,8 @@ ADVANCED PROGRAMMING
 - [**Notes**](https://github.com/md-cs-student-unipi/Advanced-Programming) - community, feel free to integrate your notes and keep the repo updated.
 - [**AdvancedProgramming**](https://github.com/LorenzoBellomo/AdvancedProgramming) - Advanced Programming course exercises from AA 2018/2019
 - [**advanced-programming1819**](https://github.com/lapotolo/advanced-programming1819) - Exercises and assigments for Advanced Programming course, Universita' di Pisa a.y. 2018/2019
-- [**adv-programming**](https://github.com/giacomodeliberali/adv-programming) - 
+- [**adv-programming**](https://github.com/giacomodeliberali/adv-programming) -
+- [**Advanced-Programming-2018**](https://github.com/andybbruno/Advanced-Programming-2018) - Exercises and assignments of AP-18 (University of Pisa). Java, Haskell and Python code.
 
 ADVANCED SOFTWARE ENGINEERING
 -----------------------------
@@ -64,7 +65,7 @@ DATA MINING
 - [**Credit Card Default**](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Notebook and report of the project "Credit Card Default" (2018/2019).
 - [**DataMiningProject2018**](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci) -  Data Mining project (2018-19).
 - [**Appunti**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - notes of the course (italian).
-
+- [**Carvana Car Auctions**](https://github.com/andybbruno/DataMining) - Project of Data Mining 2019/2020 UniPi (Code + Report)
 
 FOUNDATION OF COMPUTING
 -------------------
@@ -108,6 +109,7 @@ MACHINE LEARNING
 MOBILE AND CYBER-PHYSICAL SYSTEMS
 -------------------
 - [**eWee**](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [dtortorella](https://github.com/dtortorella), [samuelesabella](https://github.com/samuelesabella) - Home automation project: user wellness and energy efficience.
+- [**SmartCoffee**](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo)  - IoT + AI to remove queues.
 
 PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 -------------------
