@@ -66,6 +66,7 @@ Collection of useful repositories divided per exam
 ## ICT RISK ASSESSMENT
 - [_LightNeuron beamer_](https://github.com/hybrs/LightNeuron-beamer) - [hybrs](https://github.com/hybrs) - Seminar for the final exam 2018-19: Beamer presentation on TURLA LIGHTNEURON
 - [_OpenSSH-Backdoors_](https://github.com/GaspareG/OpenSSH-Backdoors) - [GaspareG](https://github.com/GaspareG) - Seminar for the final exam 2018-19: A landscape of OpenSSH backdoors 
+- [_GreyBox Fuzzing_](https://github.com/md-cs-student-unipi/Materials/blob/master/seminars/GreyBoxFuzzing.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 
 ## INFORMATION RETRIEVAL
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
@@ -96,6 +97,7 @@ Collection of useful repositories divided per exam
 - [Assignments](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci)
 - [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [Brotherhood94](https://github.com/Brotherhood94)
 - [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/pds-unipi) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
+- [Assignments + _BSP_](https://github.com/LorenzoBellomo/ParallelAndDistributedSystem) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Assignments and project 2018-19
 - [_Autonomic Farm Pattern_](https://github.com/lucacorbucci/Autonomic-Farm-Pattern) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19
 - [_Autonomic Farm Pattern_](https://github.com/Brotherhood94/Autonomic_Farm_Pattern) - [Brotherhood94](https://github.com/Brotherhood94) - Project 2018-19
 - [_ParallelPrefix_](https://github.com/GaspareG/ParallelPrefix) - [GaspareG](https://github.com/GaspareG) - Project 2017-18
@@ -109,6 +111,7 @@ Collection of useful repositories divided per exam
 - [_Analysing Kademlia DHT_](https://github.com/bongi23/Analysing-the-Kademlia-DHT) - [bongi23](https://github.com/bongi23) - MidTerm 2018-19
 - [_Kademlia DHT Simulator_](https://github.com/Polletz/KademliaSimulator) - MidTerm 2018-19
 - [_Analysing the Kademlia DHT_](https://github.com/lucacorbucci/Analysing-the-Kademlia-DHT) - [lucacorbucci](https://github.com/lucacorbucci/Analysing-the-Kademlia-DHT) - MidTerm 2018-19
+- [_All projects_](https://github.com/LorenzoBellomo/P2PandBlockchain) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - MidTerm, FinalTerm and DAPP 2018-2019
 - [_COBrA_Dapps_](https://github.com/Brotherhood94/COBrA_Dapps) - [Brothehood94](https://github.com/Brotherhood94) - Project 2017-18 (blockchain)
 - [_COBrA_](https://github.com/daquinoaldo/COBrA) - [daquinoaldo](https://github.com/daquinoaldo) - Project 2017-18 (blockchain)
 - [_DynamicOverlayGenerator_](https://github.com/antonio-sisbarra/DynamicOverlayGenerator) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18 (graph analysis)
@@ -128,6 +131,7 @@ Collection of useful repositories divided per exam
 
 ## SECURITY METHODS AND VERIFICATION
 - [_A Process Algebra for Quantum Processes_](https://github.com/laurab1/A-Process-Algebra-for-Quantum-Processes) - [laurab1](https://github.com/laurab1) - Seminar 2018-19
+- [_Checking Security of Java Bytecode by Abstract Interpretation_](https://github.com/md-cs-student-unipi/Materials/blob/master/seminars/SecurityJavaBytecode.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 
 ## SEMANTIC WEB
 - Be the first to contribute, open a pull request with your material!
