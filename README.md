@@ -66,7 +66,7 @@ Collection of useful repositories divided per exam
 ## ICT RISK ASSESSMENT
 - [_LightNeuron beamer_](https://github.com/hybrs/LightNeuron-beamer) - [hybrs](https://github.com/hybrs) - Seminar for the final exam 2018-19: Beamer presentation on TURLA LIGHTNEURON
 - [_OpenSSH-Backdoors_](https://github.com/GaspareG/OpenSSH-Backdoors) - [GaspareG](https://github.com/GaspareG) - Seminar for the final exam 2018-19: A landscape of OpenSSH backdoors 
-- [_GreyBox Fuzzing_](https://github.com/md-cs-student-unipi/Materials/blob/master/seminars/GreyBoxFuzzing.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
+- [_GreyBox Fuzzing_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/GreyBoxFuzzing.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 
 ## INFORMATION RETRIEVAL
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
@@ -131,7 +131,7 @@ Collection of useful repositories divided per exam
 
 ## SECURITY METHODS AND VERIFICATION
 - [_A Process Algebra for Quantum Processes_](https://github.com/laurab1/A-Process-Algebra-for-Quantum-Processes) - [laurab1](https://github.com/laurab1) - Seminar 2018-19
-- [_Checking Security of Java Bytecode by Abstract Interpretation_](https://github.com/md-cs-student-unipi/Materials/blob/master/seminars/SecurityJavaBytecode.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
+- [_Checking Security of Java Bytecode by Abstract Interpretation_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/SecurityJavaBytecode.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 
 ## SEMANTIC WEB
 - Be the first to contribute, open a pull request with your material!
