@@ -1,5 +1,7 @@
 # Master Degree in Computer Science @ Unipi
-Collection of useful repositories divided per exam
+Collection of useful repositories divided per exam.
+
+**See also oral questions in the [Exams](https://github.com/md-cs-student-unipi/Exams) repository.**
 
 ## ADVANCED DATABASES
 - [**Notes 2018-19**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Advanced%20Database) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
