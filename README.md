@@ -98,7 +98,7 @@ Collection of useful repositories divided per exam.
 - [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
 - [Assignments](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci)
 - [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [Brotherhood94](https://github.com/Brotherhood94)
-- [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/pds-unipi) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
+- [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/autonomic-farm) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
 - [Assignments + _BSP_](https://github.com/LorenzoBellomo/ParallelAndDistributedSystem) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Assignments and project 2018-19
 - [_Autonomic Farm Pattern_](https://github.com/lucacorbucci/Autonomic-Farm-Pattern) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19
 - [_Autonomic Farm Pattern_](https://github.com/Brotherhood94/Autonomic_Farm_Pattern) - [Brotherhood94](https://github.com/Brotherhood94) - Project 2018-19
@@ -119,6 +119,9 @@ Collection of useful repositories divided per exam.
 - [_DynamicOverlayGenerator_](https://github.com/antonio-sisbarra/DynamicOverlayGenerator) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18 (graph analysis)
 - [_Chord_](https://github.com/Brotherhood94/Chord) - [Brotherhood94](https://github.com/Brotherhood94) - MidTerm 2017-18
 - [_ChordDHTSimulator_](https://github.com/daquinoaldo/ChordDHTSimulator) - [daquinoaldo](https://github.com/daquinoaldo) - MidTerm 2017-18
+- [Kademlia DHT simulator](https://github.com/giacomodeliberali/kademlia) - [giacomodeliberali](https://github.com/giacomodeliberali/)
+- [Smart Auctions: Dutch and Vickery auctions on Ethereum](https://github.com/giacomodeliberali/smart-auctions) - [giacomodeliberali](https://github.com/giacomodeliberali/)
+
 
 
 ## PRINCIPLES FOR SOFTWARE COMPOSITION
