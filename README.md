@@ -139,7 +139,7 @@ Collection of useful repositories divided per exam.
 - [_Checking Security of Java Bytecode by Abstract Interpretation_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/SecurityJavaBytecode.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 
 ## SEMANTIC WEB
-- Be the first to contribute, open a pull request with your material!
+- [_Semantic Web_](https://github.com/dilettagoglia/Semantic-Web) - Project and Lecture notes
 
 ## SMART APPLICATIONS
 - [_RoboComment_](https://github.com/SmartAppUnipi/RoboComment) - Project 2019-20 (A)
