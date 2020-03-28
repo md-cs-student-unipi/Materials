@@ -76,7 +76,7 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
-- Be the first to contribute, open a pull request with your material!
+- [_Midterm1 (march2020)_](https://github.com/dilettagoglia/Signal_processing) - Midterm 1 - Assignment 5
 
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
