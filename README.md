@@ -80,7 +80,8 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
-- [_Midterm1 (march2020)_](https://github.com/dilettagoglia/Signal-Processing) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1, Assignment 5
+- [_**Midterm1** (march2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1, Assignment 5 (SIFT)
+- [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2, Assignment 1 (HMMS)
 
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
