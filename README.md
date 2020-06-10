@@ -90,7 +90,7 @@ Collection of useful repositories divided per exam.
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
 
 ## MACHINE LEARNING
-- [artificial-neural-network-simulator](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A). 
+- [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A). 
 - [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/MachineLearning/ML_Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in english :en:
 - [**Notes 2019-20**](https://github.com/wikilele/ml-notes) - [wikilele](https://github.com/wikilele) - Summary done while preparing for the exam
 - [Project 2018-19](https://github.com/MarioBonse/MachineLearningProject) - [MarioBonse](https://github.com/MarioBonse)
