@@ -28,6 +28,7 @@ Collection of useful repositories divided per exam.
 - [**Algorithm implementation**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some the algorithms seen in the course
 
 ## ARTIFICIAL INTELLIGENCE FUNDAMENTALS
+- [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse) 
 - [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [dmeoli](https://github.com/dmeoli) 
 - [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [dmeoli](https://github.com/dmeoli)
 - [**Planning**: _Classical Planning Approaches_](https://github.com/dmeoli/aima-python/blob/master/classical_planning_approaches.ipynb) - [dmeoli](https://github.com/dmeoli)
@@ -80,6 +81,8 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
+
+- [_**Project**  (2019)_](https://github.com/MarioBonse/Sketch-rnn) - [MarioBonse](https://github.com/MarioBonse) - Midterm 1, Sketch RNN, autoencoder for sketch drawing
 - [_**Midterm1** (march2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1, Assignment 5 (SIFT)
 - [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2, Assignment 1 (HMMS)
 
