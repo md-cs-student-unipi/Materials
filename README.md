@@ -82,7 +82,7 @@ Collection of useful repositories divided per exam.
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 
-- [_**Project**  (2019)_](https://github.com/MarioBonse/Sketch-rnn) - [MarioBonse](https://github.com/MarioBonse) - Midterm 1, Sketch RNN, autoencoder for sketch drawing
+- [_**Project**  (2019)_](https://github.com/MarioBonse/Sketch-rnn) - [MarioBonse](https://github.com/MarioBonse) - Final project, Sketch RNN, variational autoencoder for sketch generation
 - [_**Midterm1** (march2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1, Assignment 5 (SIFT)
 - [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2, Assignment 1 (HMMS)
 
