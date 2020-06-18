@@ -47,7 +47,7 @@ Collection of useful repositories divided per exam.
 - [_Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm_](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01) - Project 2018-19
 - [_2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms_](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse) - Project 2018-19
 - [_Quadratic Min-Cost Flow_](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) - Project 2018-19: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
-- [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/yase/tree/master/yase/optimization) with [notebooks](https://github.com/dmeoli/yase/tree/master/notebooks/optimization) - [dmeoli](https://github.com/dmeoli)
+- [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/opti) - [dmeoli](https://github.com/dmeoli)
 
 ## COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 - Be the first to contribute, open a pull request with your material!
@@ -98,7 +98,7 @@ Collection of useful repositories divided per exam.
 - [**Notes 2019-20**](https://github.com/wikilele/ml-notes) - [wikilele](https://github.com/wikilele) - Summary done while preparing for the exam
 - [Project 2018-19](https://github.com/MarioBonse/MachineLearningProject) - [MarioBonse](https://github.com/MarioBonse)
 - [Project 2018-19](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96)
-- [**Deep Neural Networks & Support Vector Machines**](https://github.com/dmeoli/yase/tree/master/yase/ml) with [notebooks](https://github.com/dmeoli/yase/tree/master/notebooks/ml) - [dmeoli](https://github.com/dmeoli)
+- [**Deep Neural Networks & Support Vector Machines**](https://github.com/dmeoli/optiml/tree/master/optiml/ml) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/ml) - [dmeoli](https://github.com/dmeoli)
 
 ## MOBILE AND CYBER-PHYSICAL SYSTEMS
 - [_eWee: user wellness and energy efficience_](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [samuelesabella](https://github.com/samuelesabella), [dtortorella](https://github.com/dtortorella) - Project 2018-19 (home automation)
