@@ -28,7 +28,11 @@ Collection of useful repositories divided per exam.
 - [**Algorithm implementation**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some the algorithms seen in the course
 
 ## ARTIFICIAL INTELLIGENCE FUNDAMENTALS
-- Be the first to contribute, open a pull request with your material!
+- [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse) 
+- [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [dmeoli](https://github.com/dmeoli) 
+- [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [dmeoli](https://github.com/dmeoli)
+- [**Planning**: _Classical Planning Approaches_](https://github.com/dmeoli/aima-python/blob/master/classical_planning_approaches.ipynb) - [dmeoli](https://github.com/dmeoli)
+- [**Probabilistic Reasoning over Time**: _Viterbi Algorithm_](https://github.com/dmeoli/aima-python/blob/master/viterbi_algorithm.ipynb) - [dmeoli](https://github.com/dmeoli)
 
 ## BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
@@ -39,10 +43,11 @@ Collection of useful repositories divided per exam.
 - [**Exercises 2017-18**](https://github.com/lapotolo/CompetitiveProgramming) - [lapotolo](https://github.com/lapotolo) - Homeworks solutions
 
 ## COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
-- [_Compute efficiently the QR factorization of a matrix (A|X) given the QR factorization of A_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML)
+- [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
 - [_Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm_](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01) - Project 2018-19
 - [_2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms_](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse) - Project 2018-19
 - [_Quadratic Min-Cost Flow_](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) - Project 2018-19: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
+- [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/opti) - [dmeoli](https://github.com/dmeoli)
 
 ## COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 - Be the first to contribute, open a pull request with your material!
@@ -60,7 +65,7 @@ Collection of useful repositories divided per exam.
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
 
 ## HUMAN LANGUAGE TECHNOLOGIES
-- Be the first to contribute, open a pull request with your material!
+- [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
 
 ## ICT INFRASTRUCTURES
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
@@ -80,6 +85,8 @@ Collection of useful repositories divided per exam.
 - [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2 (HMMs for timeseries forecasting)
 - [_**Midterm3** (june2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 3 (Gated RNN)
 - [_**Midterm4** (june2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm4) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 4 (CNN for video processing: a review)
+- [_**Project**  (2019)_](https://github.com/MarioBonse/Sketch-rnn) - [MarioBonse](https://github.com/MarioBonse) - Final project, Sketch RNN, variational autoencoder for sketch generation
+
 
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
@@ -88,17 +95,22 @@ Collection of useful repositories divided per exam.
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
 
 ## MACHINE LEARNING
+- [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A + report with lecturer feedback). 
+- [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/MachineLearning/ML_Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in english :en:
 - [**Notes 2019-20**](https://github.com/wikilele/ml-notes) - [wikilele](https://github.com/wikilele) - Summary done while preparing for the exam
 - [Project 2018-19](https://github.com/MarioBonse/MachineLearningProject) - [MarioBonse](https://github.com/MarioBonse)
 - [Project 2018-19](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96)
+- [**Deep Neural Networks & Support Vector Machines**](https://github.com/dmeoli/optiml/tree/master/optiml/ml) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/ml) - [dmeoli](https://github.com/dmeoli)
 
 ## MOBILE AND CYBER-PHYSICAL SYSTEMS
 - [_eWee: user wellness and energy efficience_](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [samuelesabella](https://github.com/samuelesabella), [dtortorella](https://github.com/dtortorella) - Project 2018-19 (home automation)
 - [_SmartCoffee: IoT + AI to remove queues_](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo) - Project 2018-19
 
 ## PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
+- [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/Parallel/Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in italian :it:
 - [**Notes**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci), [Brothehood94](https://github.com/Brotherhood94) - in italian :it:
 - [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
+- [Assignments 2020](https://github.com/MarioBonse/parallel_programming) - [MarioBonse](https://github.com/MarioBonse)
 - [Assignments](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci)
 - [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [Brotherhood94](https://github.com/Brotherhood94)
 - [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/autonomic-farm) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
