@@ -147,7 +147,7 @@ Collection of useful repositories divided per exam.
 - [_ArtGuide_](https://github.com/SmartAppUnipi/ArtGuide) - Project 2019-20 (B)
 
 ## SOCIAL AND ETHICAL ISSUES IN INFORMATION TECHNOLOGY
-- [_Lecture notes A.Y. 2019/20_](https://github.com/dilettagoglia/AI-social-ethical-issues/S&EI-lecture-notes-Goglia.pdf) - [Diletta Goglia](https://github.com/dilettagoglia) - Summary and notes from lectures
+- [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lecture, final essay committed and midterm presentation
 
 ## SOFTWARE VALIDATION AND VERIFICATION
 - Be the first to contribute, open a pull request with your material!
