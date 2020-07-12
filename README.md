@@ -81,10 +81,12 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
-
+- [_**Midterm1** (march2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1 (Image processing with SIFT)
+- [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2 (HMMs for timeseries forecasting)
+- [_**Midterm3** (june2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 3 (Gated RNN)
+- [_**Midterm4** (june2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm4) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 4 (CNN for video processing: a review)
 - [_**Project**  (2019)_](https://github.com/MarioBonse/Sketch-rnn) - [MarioBonse](https://github.com/MarioBonse) - Final project, Sketch RNN, variational autoencoder for sketch generation
-- [_**Midterm1** (march2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1, Assignment 5 (SIFT)
-- [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2, Assignment 1 (HMMS)
+
 
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
@@ -159,7 +161,7 @@ Collection of useful repositories divided per exam.
 - [_ArtGuide_](https://github.com/SmartAppUnipi/ArtGuide) - Project 2019-20 (B)
 
 ## SOCIAL AND ETHICAL ISSUES IN INFORMATION TECHNOLOGY
-- Be the first to contribute, open a pull request with your material!
+- [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lectures, final essay and midterm presentation
 
 ## SOFTWARE VALIDATION AND VERIFICATION
 - Be the first to contribute, open a pull request with your material!
