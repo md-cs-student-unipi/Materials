@@ -81,6 +81,12 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
+- [_**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed. 
+- [_**Midterm1** (march2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
+- [_**Midterm2** (may2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
+- [_**Midterm3** (june2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
+- [_**Midterm4** (august2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
+
 - [_**Midterm1** (march2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1 (Image processing with SIFT)
 - [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2 (HMMs for timeseries forecasting)
 - [_**Midterm3** (june2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 3 (Gated RNN)
