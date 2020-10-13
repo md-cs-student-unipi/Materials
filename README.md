@@ -48,6 +48,7 @@ Collection of useful repositories divided per exam.
 - [_2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms_](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse) - Project 2018-19
 - [_Quadratic Min-Cost Flow_](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) - Project 2018-19: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
 - [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/opti) - [dmeoli](https://github.com/dmeoli)
+- [_Neuradillo2.0_](https://github.com/FraCorti/CMProject) - **Gradient Descent, L-BFGS, Bundle Methods** -[FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice)- Project 2019-20
 
 ## COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 - Be the first to contribute, open a pull request with your material!
@@ -107,6 +108,7 @@ Collection of useful repositories divided per exam.
 - [Project 2018-19](https://github.com/MarioBonse/MachineLearningProject) - [MarioBonse](https://github.com/MarioBonse)
 - [Project 2018-19](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96)
 - [**Deep Neural Networks & Support Vector Machines**](https://github.com/dmeoli/optiml/tree/master/optiml/ml) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/ml) - [dmeoli](https://github.com/dmeoli)
+- [Project 2019-20](https://github.com/GiovanniSorice/MLProject) - _Neuradillo_ -[GiovanniSorice](https://github.com/GiovanniSorice) and [FraCorti](https://github.com/FraCorti) - (standard project, type A + report).
 
 ## MOBILE AND CYBER-PHYSICAL SYSTEMS
 - [_eWee: user wellness and energy efficience_](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [samuelesabella](https://github.com/samuelesabella), [dtortorella](https://github.com/dtortorella) - Project 2018-19 (home automation)
