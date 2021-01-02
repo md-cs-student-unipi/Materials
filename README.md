@@ -14,7 +14,7 @@ Collection of useful repositories divided per exam.
 - [**Exercises 2018-19**](https://github.com/andybbruno/Advanced-Programming-2018) - [andybbruno](https://github.com/andybbruno) - Exercises and assignments: Java, Haskell and Python code
 - [**Exercises 2018-19**](https://github.com/lapotolo/advanced-programming1819) - [lapotolo](https://github.com/lapotolo) - Exercises and assigments
 - [**Exercises 2019-20**](https://github.com/GaspareG/AdvanceProgrammingAssignments) - [GaspareG](https://github.com/GaspareG/) - Assigments
-
+- [**Excercises 2020-21**](https://github.com/piazzesiNiccolo/Advanced-Programming) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Excercises and assignments
 ## ADVANCED SOFTWARE ENGINEERING
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
