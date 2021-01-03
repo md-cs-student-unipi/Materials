@@ -29,8 +29,8 @@ Collection of useful repositories divided per exam.
 - [**Algorithm implementation**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some the algorithms seen in the course
 
 ## ARTIFICIAL INTELLIGENCE FUNDAMENTALS
-- [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse) 
-- [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [dmeoli](https://github.com/dmeoli) 
+- [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
+- [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [dmeoli](https://github.com/dmeoli)
 - [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [dmeoli](https://github.com/dmeoli)
 - [**Planning**: _Classical Planning Approaches_](https://github.com/dmeoli/aima-python/blob/master/classical_planning_approaches.ipynb) - [dmeoli](https://github.com/dmeoli)
 - [**Probabilistic Reasoning over Time**: _Viterbi Algorithm_](https://github.com/dmeoli/aima-python/blob/master/viterbi_algorithm.ipynb) - [dmeoli](https://github.com/dmeoli)
@@ -62,6 +62,7 @@ Collection of useful repositories divided per exam.
 - [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
 - [_Credit Card Default_](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Project 2018-19
 - [_Credit Card Default_](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci), [Brotherhood94](https://github.com/Brotherhood94) -  Project 2018-19
+- [_Customers' behaviour_](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
 
 ## FOUNDATION OF COMPUTING
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
@@ -74,7 +75,7 @@ Collection of useful repositories divided per exam.
 
 ## ICT RISK ASSESSMENT
 - [_LightNeuron beamer_](https://github.com/hybrs/LightNeuron-beamer) - [hybrs](https://github.com/hybrs) - Seminar for the final exam 2018-19: Beamer presentation on TURLA LIGHTNEURON
-- [_OpenSSH-Backdoors_](https://github.com/GaspareG/OpenSSH-Backdoors) - [GaspareG](https://github.com/GaspareG) - Seminar for the final exam 2018-19: A landscape of OpenSSH backdoors 
+- [_OpenSSH-Backdoors_](https://github.com/GaspareG/OpenSSH-Backdoors) - [GaspareG](https://github.com/GaspareG) - Seminar for the final exam 2018-19: A landscape of OpenSSH backdoors
 - [_GreyBox Fuzzing_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/GreyBoxFuzzing.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 
 ## INFORMATION RETRIEVAL
@@ -83,7 +84,7 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
-- [_**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed. 
+- [_**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed.
 - [_**Midterm1** (march2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
 - [_**Midterm2** (may2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
 - [_**Midterm3** (june2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
@@ -103,7 +104,7 @@ Collection of useful repositories divided per exam.
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
 
 ## MACHINE LEARNING
-- [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A + report with lecturer feedback). 
+- [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A + report with lecturer feedback).
 - [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/MachineLearning/ML_Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in english :en:
 - [**Notes 2019-20**](https://github.com/wikilele/ml-notes) - [wikilele](https://github.com/wikilele) - Summary done while preparing for the exam
 - [Project 2018-19](https://github.com/MarioBonse/MachineLearningProject) - [MarioBonse](https://github.com/MarioBonse)
