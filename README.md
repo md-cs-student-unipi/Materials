@@ -59,10 +59,10 @@ Collection of useful repositories divided per exam.
 
 ## DATA MINING
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
+- [_Customers' behaviour_](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
 - [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
 - [_Credit Card Default_](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Project 2018-19
 - [_Credit Card Default_](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci), [Brotherhood94](https://github.com/Brotherhood94) -  Project 2018-19
-- [_Customers' behaviour_](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
 
 ## FOUNDATION OF COMPUTING
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
