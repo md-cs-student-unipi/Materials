@@ -30,10 +30,10 @@ Collection of useful repositories divided per exam.
 
 ## ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 - [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
-- [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [dmeoli](https://github.com/dmeoli)
-- [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [dmeoli](https://github.com/dmeoli)
-- [**Planning**: _Classical Planning Approaches_](https://github.com/dmeoli/aima-python/blob/master/classical_planning_approaches.ipynb) - [dmeoli](https://github.com/dmeoli)
-- [**Probabilistic Reasoning over Time**: _Viterbi Algorithm_](https://github.com/dmeoli/aima-python/blob/master/viterbi_algorithm.ipynb) - [dmeoli](https://github.com/dmeoli)
+- [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [Donato Meoli](https://github.com/dmeoli)
+- [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [Donato Meoli](https://github.com/dmeoli)
+- [**Planning**: _Classical Planning Approaches_](https://github.com/dmeoli/aima-python/blob/master/classical_planning_approaches.ipynb) - [Donato Meoli](https://github.com/dmeoli)
+- [**Probabilistic Reasoning over Time**: _Viterbi Algorithm_](https://github.com/dmeoli/aima-python/blob/master/viterbi_algorithm.ipynb) - [Donato Meoli](https://github.com/dmeoli)
 
 ## BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
@@ -48,7 +48,7 @@ Collection of useful repositories divided per exam.
 - [_Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm_](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01) - Project 2018-19
 - [_2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms_](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse) - Project 2018-19
 - [_Quadratic Min-Cost Flow_](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) - Project 2018-19: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
-- [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/opti) - [dmeoli](https://github.com/dmeoli)
+- [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/opti) - [Donato Meoli](https://github.com/dmeoli)
 - [_Neuradillo2.0_](https://github.com/FraCorti/CMProject) - **Gradient Descent, L-BFGS, Bundle Methods** -[FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice)- Project 2019-20
 
 ## COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
@@ -59,6 +59,7 @@ Collection of useful repositories divided per exam.
 
 ## DATA MINING
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
+- [Online Retail](https://github.com/dmeoli/DataMiningUniPi) - [Donato Meoli](https://github.com/dmeoli), [Enrico D'Arco](https://github.com/darcoenr), [Luigi Quarantiello](https://github.com/poxebur) - Project 2020-21
 - [_Customers' behaviour_](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
 - [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
 - [_Credit Card Default_](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Project 2018-19
