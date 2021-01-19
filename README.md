@@ -56,6 +56,7 @@ Collection of useful repositories divided per exam.
 - Be the first to contribute, open a pull request with your material!
 
 ## DATA MINING
+- [**DM Project** (A.Y. 2020-21)](https://github.com/dilettagoglia/DataMining) - [Diletta Goglia](https://github.com/dilettagoglia) , [Marco Petix](https://github.com/marcopetix) - Project 2020-21
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
 - [_Credit Card Default_](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Project 2018-19
