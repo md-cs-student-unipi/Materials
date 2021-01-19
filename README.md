@@ -59,6 +59,7 @@ Collection of useful repositories divided per exam.
 
 ## DATA MINING
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
+- [Online Retail: Customer's analysis](https://github.com/CoffeeStraw/Store-Customers-Analysis) - [Antonio Strippoli](https://github.com/CoffeeStraw), [Valerio Mariani](https://github.com/sd3ntato) - Project 2020-21
 - [Online Retail](https://github.com/dmeoli/DataMiningUniPi) - [Donato Meoli](https://github.com/dmeoli), [Enrico D'Arco](https://github.com/darcoenr), [Luigi Quarantiello](https://github.com/poxebur) - Project 2020-21
 - [_Customers' behaviour_](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
 - [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
