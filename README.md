@@ -89,6 +89,7 @@ Collection of useful repositories divided per exam.
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 - [_**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed.
+- [_**Project** (january2021)_](https://github.com/GiovanniSorice/Deep_Music_Generator) - [Giovanni Sorice](https://github.com/GiovanniSorice/) - Final coding project n.6 - Compressive Transformer for music generation (Code, report and slides)
 - [_**Midterm1** (march2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
 - [_**Midterm2** (may2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
 - [_**Midterm3** (june2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
