@@ -42,6 +42,8 @@ Collection of useful repositories divided per exam.
 - [**Exercises 2018-19**](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks and some exams
 - [**Exercises 2018-19**](https://github.com/guanaco96/Competitive-Programming) - [lorenzo2beretta](https://github.com/lorenzo2beretta) - Homeworks solutions
 - [**Exercises 2017-18**](https://github.com/lapotolo/CompetitiveProgramming) - [lapotolo](https://github.com/lapotolo) - Homeworks solutions
+- [**Exercises 2020-21**](https://vincenzopalazzo.github.io/Competitive-Programming-and-Contests-VP-Solution) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Homeworks solutions
+- [**Report 2020-21**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/uploads/b2dcff843e34eedfab80fb737126b465/report.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Report on Segment Tree
 
 ## COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 - [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
@@ -107,7 +109,7 @@ Collection of useful repositories divided per exam.
 
 ## LANGUAGES, COMPILERS AND INTERPRETERS
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
-
+- [**Seminar 2020-21**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/uploads/aa75df10ffe8649e665d2526e14b26ae/oop_procedure_abstraction.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar on Precedure Abstraction on a OOP point of view
 ## MACHINE LEARNING
 - [Project 2020-21](https://github.com/AlexPasqua/NNs-from-scratch) - [Alex Pasquali](https://github.com/AlexPasqua) and [Gaetano Antonicchio](https://github.com/gaetanoantonicchio) (project type A + report)
 - [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A + report with lecturer feedback).
