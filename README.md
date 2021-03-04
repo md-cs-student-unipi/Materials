@@ -62,6 +62,7 @@ Collection of useful repositories divided per exam.
 ## DATA MINING
 - [**Notes 2020-2021](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth), Federico Mazzoni - in italian
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
+- [Customer's analysis](https://github.com/dilettagoglia/DataMining) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix) - DM Project 2020-21
 - [_IBM dataset_](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, Federico Mazzoni - Project for Data Mining I 2020-21
 - [Online Retail: Customer's analysis](https://github.com/CoffeeStraw/Store-Customers-Analysis) - [Antonio Strippoli](https://github.com/CoffeeStraw), [Valerio Mariani](https://github.com/sd3ntato) - Project 2020-21
 - [Online Retail](https://github.com/dmeoli/DataMiningUniPi) - [Donato Meoli](https://github.com/dmeoli), [Enrico D'Arco](https://github.com/darcoenr), [Luigi Quarantiello](https://github.com/poxebur) - Project 2020-21
@@ -162,7 +163,7 @@ Collection of useful repositories divided per exam.
 - Be the first to contribute, open a pull request with your material!
 
 ## ROBOTICS
-- Be the first to contribute, open a pull request with your material!
+- [_Mind map_](https://github.com/dilettagoglia/Robotics) - [Diletta Goglia](https://github.com/dilettagoglia) - Map of the whole programme of ROB course, A.Y. 2019/20
 
 ## SCIENTIFIC AND LARGE DATA VISUALIZATION
 - [_dblp.info: a data visualization website about dblp data_](https://github.com/GaspareG/dblp.info) - [GaspareG](https://github.com/GaspareG) - Project 2017-18
