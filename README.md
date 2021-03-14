@@ -91,18 +91,49 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
-- [_**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed.
-- [_**Project** (january2021)_](https://github.com/GiovanniSorice/Deep_Music_Generator) - [Giovanni Sorice](https://github.com/GiovanniSorice/) - Final coding project n.6 - Compressive Transformer for music generation (Code, report and slides)
-- [_**Midterm1** (march2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
-- [_**Midterm2** (may2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
-- [_**Midterm3** (june2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
-- [_**Midterm4** (august2020)_](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
+<details open>
+<summary>Notes:</summary>
 
-- [_**Midterm1** (march2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1 (Image processing with SIFT)
-- [_**Midterm2** (may2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2 (HMMs for timeseries forecasting)
-- [_**Midterm3** (june2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 3 (Gated RNN)
-- [_**Midterm4** (june2020)_](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm4) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 4 (CNN for video processing: a review)
-- [_**Project**  (2019)_](https://github.com/MarioBonse/Sketch-rnn) - [MarioBonse](https://github.com/MarioBonse) - Final project, Sketch RNN, variational autoencoder for sketch generation
+- [**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed.
+</details>
+
+<details open>
+<summary>Projects:</summary>
+
+- [**Project** (january2021)](https://github.com/GiovanniSorice/Deep_Music_Generator) - [Giovanni Sorice](https://github.com/GiovanniSorice/) - Final coding project n.6 - Compressive Transformer for music generation (Code, report and slides)
+- [**Project**  (2019)](https://github.com/MarioBonse/Sketch-rnn) - [MarioBonse](https://github.com/MarioBonse) - Final project, Sketch RNN, variational autoencoder for sketch generation
+</details>
+
+<details open>
+<summary>Midterms:</summary>
+<details open>
+<summary>Midterm 1:</summary>
+
+- [**Midterm1** (march2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
+- [**Midterm1** (march2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1 (Image processing with SIFT)
+</details>
+
+<details open>
+<summary>Midterm 2:</summary>
+
+- [**Midterm2** (may2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
+- [**Midterm2** (may2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2 (HMMs for timeseries forecasting)
+</details>
+
+<details open>
+<summary>Midterm 3:</summary>
+
+- [**Midterm3** (june2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
+- [**Midterm3** (june2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 3 (Gated RNN)
+</details>
+
+<details open>
+<summary>Midterm 4:</summary>
+
+- [**Midterm4** (august2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
+- [**Midterm4** (june2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm4) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 4 (CNN for video processing: a review)
+</details>
+</details>
 
 
 ## LABORATORY FOR INNOVATIVE SOFTWARE
