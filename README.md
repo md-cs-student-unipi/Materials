@@ -175,7 +175,7 @@ Collection of useful repositories divided per exam.
 
 ## SEMANTIC WEB
 - [_Semantic Web_](https://github.com/dilettagoglia/Semantic-Web) - [Diletta Goglia](https://github.com/dilettagoglia) - Final project and Lecture notes
-- [_Semantic Web_](https://github.com/FedericoMz/Semantic-Web) - [Diletta Goglia](https://github.com/FedericoMz) - Final project (ontology and answers)
+- [_Semantic Web_](https://github.com/FedericoMz/Semantic-Web) - [Federico Mazzoni](https://github.com/FedericoMz) - Final project (ontology and answers)
 
 ## SMART APPLICATIONS
 - [_RoboComment_](https://github.com/SmartAppUnipi/RoboComment) - Project 2019-20 (A)
