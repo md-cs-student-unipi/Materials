@@ -60,7 +60,7 @@ Collection of useful repositories divided per exam.
 - Be the first to contribute, open a pull request with your material!
 
 ## DATA MINING
-- [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth), [Federico Mazzoni](https://github.com/FedericoMz/ - in Italian
+- [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth),  [Federico Mazzoni](https://github.com/FedericoMz) - in Italian
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [Customer's analysis](https://github.com/dilettagoglia/DataMining) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix) - DM Project 2020-21
 - [_IBM dataset_](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, Federico Mazzoni - Project for Data Mining I 2020-21
