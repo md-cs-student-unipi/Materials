@@ -95,7 +95,6 @@ Collection of useful repositories divided per exam.
 <summary>Notes and materials:</summary>
 
 - [**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed.
-
 - [**Tutorial / Demo**](https://github.com/AlexPasqua/signal-image-processing-tutorial) - [Alex Pasquali](https://github.com/AlexPasqua) - Simple signal and image processing tutorial with Matlab
 </details>
 
