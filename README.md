@@ -46,7 +46,7 @@ Collection of useful repositories divided per exam.
 - [**Report 2020-21**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/uploads/b2dcff843e34eedfab80fb737126b465/report.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Report on Segment Tree
 
 - [**Excercises 2020-21**](https://github.com/piazzesiNiccolo/Competitive-Programming) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Homework solutions
--[**Report on Union Find**](https://github.com/piazzesiNiccolo/UnionFind-report)- [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - my report on Union-Find data structures
+- [**Report on Union Find**](https://github.com/piazzesiNiccolo/UnionFind-report)- [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - my report on Union-Find data structures
 ## COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 - [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
 - [_Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm_](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01) - Project 2018-19
