@@ -86,7 +86,7 @@ Collection of useful repositories divided per exam.
 - [_LightNeuron beamer_](https://github.com/hybrs/LightNeuron-beamer) - [hybrs](https://github.com/hybrs) - Seminar for the final exam 2018-19: Beamer presentation on TURLA LIGHTNEURON
 - [_OpenSSH-Backdoors_](https://github.com/GaspareG/OpenSSH-Backdoors) - [GaspareG](https://github.com/GaspareG) - Seminar for the final exam 2018-19: A landscape of OpenSSH backdoors
 - [_GreyBox Fuzzing_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/GreyBoxFuzzing.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
-- [_IMD Security ](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/IMDSecurity.pdf) - [Paoletti Riccardo](https://github.com/Polletz) - 2021
+- [_IMD Security_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/IMDSecurity.pdf) - [Paoletti Riccardo](https://github.com/Polletz) - 2021
 
 ## INFORMATION RETRIEVAL
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
