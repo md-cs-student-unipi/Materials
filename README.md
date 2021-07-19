@@ -55,6 +55,7 @@ Collection of useful repositories divided per exam.
 - [_Quadratic Min-Cost Flow_](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) - Project 2018-19: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
 - [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/optimization) - [Donato Meoli](https://github.com/dmeoli)
 - [_Neuradillo2.0_](https://github.com/FraCorti/CMProject) - **Gradient Descent, L-BFGS, Bundle Methods** -[FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice)- Project 2019-20
+- [**Appunti ottimizzazione**](/Notes/CM_Ottimizzazione.pdf) - Federica Di Pasquale
 
 ## COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 - Be the first to contribute, open a pull request with your material!
