@@ -115,29 +115,33 @@ Collection of useful repositories divided per exam.
 <details open>
 <summary>Midterm 1:</summary>
 
-- [**Midterm1** (march2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
-- [**Midterm1** (march2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 1 (Image processing with SIFT)
+- [**Midterm1** (March 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm1) - [Alex Pasquali](https://github.com/AlexPasqua) - Autoregressive models
+- [**Midterm1** (March 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
+- [**Midterm1** (March 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Image processing with SIFT
 </details>
 
 <details open>
 <summary>Midterm 2:</summary>
 
-- [**Midterm2** (may2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
-- [**Midterm2** (may2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 2 (HMMs for timeseries forecasting)
+- [**Midterm2** (April 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm2) - [Alex Pasquali](https://github.com/AlexPasqua) - Restricted Boltzmann Machine (RBM)
+- [**Midterm2** (May 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
+- [**Midterm2** (May 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - HMMs for timeseries forecasting
 </details>
 
 <details open>
 <summary>Midterm 3:</summary>
 
-- [**Midterm3** (june2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
-- [**Midterm3** (june2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 3 (Gated RNN)
+- [**Midterm3** (May 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm3) - [Alex Pasquali](https://github.com/AlexPasqua) - Autoencoders
+- [**Midterm3** (June 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
+- [**Midterm3** (June 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Gated RNN
 </details>
 
 <details open>
 <summary>Midterm 4:</summary>
 
-- [**Midterm4** (august2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
-- [**Midterm4** (june2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm4) - [Diletta Goglia](https://github.com/dilettagoglia) - Midterm 4 (CNN for video processing: a review)
+- [**Midterm4** (July 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm4) - [Alex Pasquali](https://github.com/AlexPasqua) - Paper review: _Continual Learning with Deep Generative Replay_
+- [**Midterm4** (August 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
+- [**Midterm4** (June 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm4) - [Diletta Goglia](https://github.com/dilettagoglia) - CNN for video processing: a review
 </details>
 </details>
 
