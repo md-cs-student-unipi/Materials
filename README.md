@@ -19,6 +19,7 @@ Collection of useful repositories divided per exam.
 ## ADVANCED SOFTWARE ENGINEERING
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
+- [_GoOutSafe_](https://github.com/GreyTeam2020) - [grey-team](https://github.com/GreyTeam2020) - Project 2020-21
 
 ## ALGORITHM DESIGN
 - [_The Power of Two Choices_](https://github.com/guanaco96/The_Power_of_Two_Choices) - [guanaco96](https://github.com/guanaco96) - Final report 2018-19
