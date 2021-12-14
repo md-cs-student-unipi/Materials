@@ -57,6 +57,7 @@ Collection of useful repositories divided per exam.
 - [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/optimization) - [Donato Meoli](https://github.com/dmeoli)
 - [_Neuradillo2.0_](https://github.com/FraCorti/CMProject) - **Gradient Descent, L-BFGS, Bundle Methods** -[FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice)- Project 2019-20
 - [**Appunti ottimizzazione**](/Notes/CM_Ottimizzazione.pdf) - Federica Di Pasquale
+- [**Quadratic Disjoint simplices**](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra) - Solution of quadratic optimization problem using dual and subgradient methods
 
 ## COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 - Be the first to contribute, open a pull request with your material!
