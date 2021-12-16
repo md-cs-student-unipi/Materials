@@ -184,6 +184,7 @@ Collection of useful repositories divided per exam.
 - [Assignments + _BSP_](https://github.com/LorenzoBellomo/ParallelAndDistributedSystem) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Assignments and project 2018-19
 - [TSP with Genetic Algorithms](https://github.com/FraCorti/TSP-GeneticAlgorithm) - [FraCorti](https://github.com/FraCorti) - Project 2020-21
 - [_PRUDEnce_](https://github.com/karjudev/prudence-spm) - [karjudev](https://github.com/karjudev) - Project 2020-21 - Free choice
+- [*Parallel Boruvka*](https://github.com/matteodefra/Parallel_Boruvka) - [matteodefra](https://github.com/matteodefra) - Parallel implementation of the Boruvka (or Sollin's) algorithm to find the minimum spanning tree of an undirected graph
 - [_Autonomic Farm Pattern_](https://github.com/lucacorbucci/Autonomic-Farm-Pattern) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19
 - [_Autonomic Farm Pattern_](https://github.com/Brotherhood94/Autonomic_Farm_Pattern) - [Brotherhood94](https://github.com/Brotherhood94) - Project 2018-19
 - [_ParallelPrefix_](https://github.com/GaspareG/ParallelPrefix) - [GaspareG](https://github.com/GaspareG) - Project 2017-18
