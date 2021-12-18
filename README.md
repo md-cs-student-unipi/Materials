@@ -3,6 +3,9 @@ Collection of useful repositories divided per exam.
 
 **See also oral questions in the [Exams](https://github.com/md-cs-student-unipi/Exams) repository.**
 
+[**Template Thesis Cover**](https://github.com/Brotherhood94/Thesis-Cover-Unipi) - [AlessandroBerti](https://github.com/Brotherhood94)
+
+
 ## ADVANCED DATABASES
 - [**Notes 2018-19**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Advanced%20Database) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Formulary**](https://github.com/md-cs-student-unipi/Advance-Databases-Formulary/) - [GaspareG](https://github.com/GaspareG) - Physical operators cost and result size
@@ -75,7 +78,7 @@ Collection of useful repositories divided per exam.
 - [Online Retail](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
 - [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
 - [_Credit Card Default_](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Project 2018-19
-- [_Credit Card Default_](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci), [Brotherhood94](https://github.com/Brotherhood94) -  Project 2018-19
+- [_Credit Card Default_](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94) -  Project 2018-19
 
 ## FOUNDATION OF COMPUTING
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
@@ -175,18 +178,18 @@ Collection of useful repositories divided per exam.
 
 ## PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
 - [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/Parallel/Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in italian :it:
-- [**Notes**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci), [Brothehood94](https://github.com/Brotherhood94) - in italian :it:
+- [**Notes**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94) - in italian :it:
 - [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
 - [Assignments 2020](https://github.com/MarioBonse/parallel_programming) - [MarioBonse](https://github.com/MarioBonse)
 - [Assignments](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci)
-- [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [Brotherhood94](https://github.com/Brotherhood94)
+- [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [AlessandroBerti](https://github.com/Brotherhood94)
 - [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/autonomic-farm) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
 - [Assignments + _BSP_](https://github.com/LorenzoBellomo/ParallelAndDistributedSystem) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Assignments and project 2018-19
 - [TSP with Genetic Algorithms](https://github.com/FraCorti/TSP-GeneticAlgorithm) - [FraCorti](https://github.com/FraCorti) - Project 2020-21
 - [_PRUDEnce_](https://github.com/karjudev/prudence-spm) - [karjudev](https://github.com/karjudev) - Project 2020-21 - Free choice
 - [*Parallel Boruvka*](https://github.com/matteodefra/Parallel_Boruvka) - [matteodefra](https://github.com/matteodefra) - Parallel implementation of the Boruvka (or Sollin's) algorithm to find the minimum spanning tree of an undirected graph
 - [_Autonomic Farm Pattern_](https://github.com/lucacorbucci/Autonomic-Farm-Pattern) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19
-- [_Autonomic Farm Pattern_](https://github.com/Brotherhood94/Autonomic_Farm_Pattern) - [Brotherhood94](https://github.com/Brotherhood94) - Project 2018-19
+- [_Autonomic Farm Pattern_](https://github.com/Brotherhood94/Autonomic_Farm_Pattern) - [AlessandroBerti](https://github.com/Brotherhood94) - Project 2018-19
 - [_ParallelPrefix_](https://github.com/GaspareG/ParallelPrefix) - [GaspareG](https://github.com/GaspareG) - Project 2017-18
 - [_aco tsp_](https://bitbucket.org/melfnt/aco-tsp) - Lucio Messina - Project 2017-18
 - [_ImageWatermarking_](https://github.com/magemma/Image-Watermarking) - [magemma](https://github.com/magemma) - Project 2017-18
@@ -199,10 +202,10 @@ Collection of useful repositories divided per exam.
 - [_Kademlia DHT Simulator_](https://github.com/Polletz/KademliaSimulator) - MidTerm 2018-19
 - [_Analysing the Kademlia DHT_](https://github.com/lucacorbucci/Analysing-the-Kademlia-DHT) - [lucacorbucci](https://github.com/lucacorbucci/Analysing-the-Kademlia-DHT) - MidTerm 2018-19
 - [_All projects_](https://github.com/LorenzoBellomo/P2PandBlockchain) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - MidTerm, FinalTerm and DAPP 2018-2019
-- [_COBrA_Dapps_](https://github.com/Brotherhood94/COBrA_Dapps) - [Brothehood94](https://github.com/Brotherhood94) - Project 2017-18 (blockchain)
+- [_COBrA_Dapps_](https://github.com/Brotherhood94/COBrA_Dapps) - [AlessandroBerti](https://github.com/Brotherhood94) - Project 2017-18 (blockchain)
 - [_COBrA_](https://github.com/daquinoaldo/COBrA) - [daquinoaldo](https://github.com/daquinoaldo) - Project 2017-18 (blockchain)
 - [_DynamicOverlayGenerator_](https://github.com/antonio-sisbarra/DynamicOverlayGenerator) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18 (graph analysis)
-- [_Chord_](https://github.com/Brotherhood94/Chord) - [Brotherhood94](https://github.com/Brotherhood94) - MidTerm 2017-18
+- [_Chord_](https://github.com/Brotherhood94/Chord) - [AlessandroBerti](https://github.com/Brotherhood94) - MidTerm 2017-18
 - [_ChordDHTSimulator_](https://github.com/daquinoaldo/ChordDHTSimulator) - [daquinoaldo](https://github.com/daquinoaldo) - MidTerm 2017-18
 - [Kademlia DHT simulator](https://github.com/giacomodeliberali/kademlia) - [giacomodeliberali](https://github.com/giacomodeliberali/)
 - [Smart Auctions: Dutch and Vickery auctions on Ethereum](https://github.com/giacomodeliberali/smart-auctions) - [giacomodeliberali](https://github.com/giacomodeliberali/)
