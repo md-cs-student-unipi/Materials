@@ -100,6 +100,8 @@ Collection of useful repositories divided per exam.
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
+- [**Notes 2020/2021**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/-/blob/master/InformationRetreival/ir_summary/report.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - A detailed summary of all the IR program.
+- [**Graph DB Presentation**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/-/tree/master/InformationRetreival/graph_db_presentation) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - A presentation about Graph Databases.
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 <details open>
@@ -195,6 +197,8 @@ Collection of useful repositories divided per exam.
 - [_ImageWatermarking_](https://github.com/magemma/Image-Watermarking) - [magemma](https://github.com/magemma) - Project 2017-18
 - [_ImgWatermark_](https://github.com/antonio-sisbarra/ImgWatermark) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
+- [**cpp-bps project**](https://gitlab.com/vincenzopalazzo/cpp-bps) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Project 2020/2021 related to frameworks developments with a curated C++ and cmake file.
+
 
 ## PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [_SmartAuctions_](https://github.com/lucacorbucci/SmartAuctions) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19 (blockchain)
@@ -213,7 +217,7 @@ Collection of useful repositories divided per exam.
 - [Votes Platform](https://gitlab.com/vincenzopalazzo/peer-to-peer-systems-and-blockchains/-/tree/master/votes_platform) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Final MidTerm 2020/2021
 
 ## PRINCIPLES FOR SOFTWARE COMPOSITION
-- Be the first to contribute, open a pull request with your material!
+- [**derivationtree project**](https://gitlab.com/vincenzopalazzo/derivationtree) - [vincenzopalazzo](https://github.com/vincenzopalazzo) IMP derivation tree project.
 
 ## ROBOTICS
 - [_Mind map_](https://github.com/dilettagoglia/Robotics) - [Diletta Goglia](https://github.com/dilettagoglia) - Map of the whole programme of ROB course, A.Y. 2019/20
