@@ -195,6 +195,8 @@ Collection of useful repositories divided per exam.
 - [_ImageWatermarking_](https://github.com/magemma/Image-Watermarking) - [magemma](https://github.com/magemma) - Project 2017-18
 - [_ImgWatermark_](https://github.com/antonio-sisbarra/ImgWatermark) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
+- [**cpp-bps project**](https://gitlab.com/vincenzopalazzo/cpp-bps) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Project 2020/2021 related to frameworks developments with a curated C++ and cmake file.
+
 
 ## PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [_SmartAuctions_](https://github.com/lucacorbucci/SmartAuctions) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19 (blockchain)
