@@ -100,6 +100,8 @@ Collection of useful repositories divided per exam.
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
+- [**Notes 2020/2021**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/-/blob/master/InformationRetreival/ir_summary/report.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - A detailed summary of all the IR program.
+- [**Graph DB Presentation**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/-/tree/master/InformationRetreival/graph_db_presentation) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - A presentation about Graph Databases.
 
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 <details open>
