@@ -212,7 +212,7 @@ Collection of useful repositories divided per exam.
 
 
 ## PRINCIPLES FOR SOFTWARE COMPOSITION
-- [**derivationtree project**](https://gitlab.com/vincenzopalazzo/derivationtree) - [vincenzopalazzo]() IMP derivation tree project.
+- [**derivationtree project**](https://gitlab.com/vincenzopalazzo/derivationtree) - [vincenzopalazzo](https://github.com/vincenzopalazzo) IMP derivation tree project.
 
 ## ROBOTICS
 - [_Mind map_](https://github.com/dilettagoglia/Robotics) - [Diletta Goglia](https://github.com/dilettagoglia) - Map of the whole programme of ROB course, A.Y. 2019/20
