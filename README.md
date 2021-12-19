@@ -209,8 +209,8 @@ Collection of useful repositories divided per exam.
 - [_ChordDHTSimulator_](https://github.com/daquinoaldo/ChordDHTSimulator) - [daquinoaldo](https://github.com/daquinoaldo) - MidTerm 2017-18
 - [Kademlia DHT simulator](https://github.com/giacomodeliberali/kademlia) - [giacomodeliberali](https://github.com/giacomodeliberali/)
 - [Smart Auctions: Dutch and Vickery auctions on Ethereum](https://github.com/giacomodeliberali/smart-auctions) - [giacomodeliberali](https://github.com/giacomodeliberali/)
-
-
+- [SpyGoIpfs](https://gitlab.com/vincenzopalazzo/SpyGoIpfs) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - First MidTerm 2020/2021 
+- [Votes Platform](https://gitlab.com/vincenzopalazzo/peer-to-peer-systems-and-blockchains/-/tree/master/votes_platform) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Final MidTerm 2020/2021
 
 ## PRINCIPLES FOR SOFTWARE COMPOSITION
 - Be the first to contribute, open a pull request with your material!
