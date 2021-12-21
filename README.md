@@ -23,6 +23,9 @@ Collection of useful repositories divided per exam.
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
 - [_GoOutSafe_](https://github.com/GreyTeam2020) - [grey-team](https://github.com/GreyTeam2020) - Project 2020-21
+- [Notes and answers](https://github.com/piazzesiNiccolo/ASE) - notes that i took during the course + answers to the questions given to continous learners
+- [MMIAB-PRIMER](https://github.com/Team6ASE2021/MMIAB-PRIMER) - A.Y 2021/22 first team assignment
+- [mmiab-main](https://github.com/piazzesiNiccolo/mmiab-main) - A.Y 2021/22 second team assignment
 
 ## ALGORITHM DESIGN
 - [_The Power of Two Choices_](https://github.com/guanaco96/The_Power_of_Two_Choices) - [guanaco96](https://github.com/guanaco96) - Final report 2018-19
