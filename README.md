@@ -100,6 +100,7 @@ Collection of useful repositories divided per exam.
 - [_IMD Security_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/IMDSecurity.pdf) - [Paoletti Riccardo](https://github.com/Polletz) - 2021
 
 ## INFORMATION RETRIEVAL
+- [**Notes 2021-22**](https://github.com/robbespo00/Information-Retrieval-Notes) - [robbespo00](https://github.com/robbespo00) - English
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Exercises**](https://github.com/flandolfi/IR-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams
