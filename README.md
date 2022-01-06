@@ -22,6 +22,7 @@ Collection of useful repositories divided per exam.
 ## ADVANCED SOFTWARE ENGINEERING
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
+- [_GoOutSafe_](https://github.com/Squad002) - [Squad002](https://github.com/Squad002) - Project 2020-21
 - [_GoOutSafe_](https://github.com/GreyTeam2020) - [grey-team](https://github.com/GreyTeam2020) - Project 2020-21
 - [Notes and answers](https://github.com/piazzesiNiccolo/ASE) - notes that i took during the course + answers to the questions given to continous learners
 - [MMIAB-PRIMER](https://github.com/Team6ASE2021/MMIAB-PRIMER) - A.Y 2021/22 first team assignment
@@ -74,6 +75,7 @@ Collection of useful repositories divided per exam.
 ## DATA MINING
 - [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth),  [Federico Mazzoni](https://github.com/FedericoMz) - in Italian
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
+- [Tennis Analysis](https://github.com/reuseman/tennis-match-analysis) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni) - Project 2021-22
 - [Customer's analysis](https://github.com/dilettagoglia/DataMining) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix) - DM Project 2020-21
 - [_IBM dataset_](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, [Federico Mazzoni](https://github.com/FedericoMz) - Project for Data Mining I 2020-21
 - [Online Retail: Customer's analysis](https://github.com/CoffeeStraw/Store-Customers-Analysis) - [Antonio Strippoli](https://github.com/CoffeeStraw), [Valerio Mariani](https://github.com/sd3ntato) - Project 2020-21
@@ -179,6 +181,7 @@ Collection of useful repositories divided per exam.
 - [Project 2019-20](https://github.com/GiovanniSorice/MLProject) - _Neuradillo_ -[GiovanniSorice](https://github.com/GiovanniSorice) and [FraCorti](https://github.com/FraCorti) - (standard project, type A + report).
 
 ## MOBILE AND CYBER-PHYSICAL SYSTEMS
+- [Smart Street Lights IoT](https://github.com/Street-Lights-IOT)  - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso) - Project 2020-21
 - [_eWee: user wellness and energy efficience_](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [samuelesabella](https://github.com/samuelesabella), [dtortorella](https://github.com/dtortorella) - Project 2018-19 (home automation)
 - [_SmartCoffee: IoT + AI to remove queues_](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo) - Project 2018-19
 
@@ -205,6 +208,7 @@ Collection of useful repositories divided per exam.
 
 
 ## PEER TO PEER SYSTEMS AND BLOCKCHAINS
+- [Voting DApp](https://github.com/reuseman/voting-dapp) - [Alex Colucci](https://github.com/reuseman) - FinalTerm 2021-21
 - [_SmartAuctions_](https://github.com/lucacorbucci/SmartAuctions) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19 (blockchain)
 - [_Analysing Kademlia DHT_](https://github.com/bongi23/Analysing-the-Kademlia-DHT) - [bongi23](https://github.com/bongi23) - MidTerm 2018-19
 - [_Kademlia DHT Simulator_](https://github.com/Polletz/KademliaSimulator) - MidTerm 2018-19
