@@ -250,4 +250,4 @@ Collection of useful repositories divided per exam.
 - [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lectures, final essay and midterm presentation
 
 ## SOFTWARE VALIDATION AND VERIFICATION
-- Be the first to contribute, open a pull request with your material!
+- [SPIN by Examples](https://gitlab.com/vincenzopalazzo/spin-by-examples) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar 2021/2022 about SPIN.
