@@ -67,7 +67,7 @@ Collection of useful repositories divided per exam.
 - [**Quadratic Disjoint simplices**](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra) - Solution of quadratic optimization problem using dual and subgradient methods
 
 ## COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
-- Be the first to contribute, open a pull request with your material!
+- [**SIRVSD model with different age groups and heterogeneous contacts**](https://github.com/Musca23/SIRVSD-model-with-age-groups) - [Paolo Murgia](https://github.com/Musca23) - Project 2020-21
 
 ## COMPUTATIONAL NEUROSCIENCE
 - Be the first to contribute, open a pull request with your material!
