@@ -75,6 +75,7 @@ Collection of useful repositories divided per exam.
 ## DATA MINING
 - [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth),  [Federico Mazzoni](https://github.com/FedericoMz) - in Italian
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
+- [Tennis Matches](https://github.com/nikodallanoce/DataMiningProject) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2021-22
 - [Tennis Analysis](https://github.com/reuseman/tennis-match-analysis) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni) - Project 2021-22
 - [Customer's analysis](https://github.com/dilettagoglia/DataMining) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix) - DM Project 2020-21
 - [_IBM dataset_](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, [Federico Mazzoni](https://github.com/FedericoMz) - Project for Data Mining I 2020-21
@@ -89,6 +90,7 @@ Collection of useful repositories divided per exam.
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
 
 ## HUMAN LANGUAGE TECHNOLOGIES
+- [Implementing NMT Models](https://github.com/nikodallanoce/HLT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Comparison beetween different NMT models - Project 2020-21
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
 - [Hate Speech Detection](https://github.com/GiovanniSorice/Hate_Speech_Detection) - [Giovanni Sorice](https://github.com/GiovanniSorice), [Francesco Corti](https://github.com/FraCorti) - Evalita-2020 challenge, build an Hate Speech Detector that given a tweet is able to recognize, if it contains hateful content or not - Project 2019-20
 
@@ -181,6 +183,7 @@ Collection of useful repositories divided per exam.
 - [Project 2019-20](https://github.com/GiovanniSorice/MLProject) - _Neuradillo_ -[GiovanniSorice](https://github.com/GiovanniSorice) and [FraCorti](https://github.com/FraCorti) - (standard project, type A + report).
 
 ## MOBILE AND CYBER-PHYSICAL SYSTEMS
+- [S.E.B. Smart Environment Bot](https://github.com/nikodallanoce/MCPS) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2020-21
 - [Smart Street Lights IoT](https://github.com/Street-Lights-IOT)  - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso) - Project 2020-21
 - [_eWee: user wellness and energy efficience_](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [samuelesabella](https://github.com/samuelesabella), [dtortorella](https://github.com/dtortorella) - Project 2018-19 (home automation)
 - [_SmartCoffee: IoT + AI to remove queues_](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo) - Project 2018-19
