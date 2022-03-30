@@ -89,6 +89,8 @@ Collection of useful repositories divided per exam.
 ## FOUNDATION OF COMPUTING
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
 
+- [Rewriting Logic](https://github.com/piazzesiNiccolo/foc-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on rewriting logic.
+
 ## HUMAN LANGUAGE TECHNOLOGIES
 - [Implementing NMT Models](https://github.com/nikodallanoce/HLT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Comparison beetween different NMT models - Project 2020-21
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
@@ -254,3 +256,5 @@ Collection of useful repositories divided per exam.
 
 ## SOFTWARE VALIDATION AND VERIFICATION
 - [SPIN by Examples](https://gitlab.com/vincenzopalazzo/spin-by-examples) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar 2021/2022 about SPIN.
+
+- [Separation Logic](https://github.com/piazzesiNiccolo/svv-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on separation logic.
