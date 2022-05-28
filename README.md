@@ -33,11 +33,13 @@ Collection of useful repositories divided per exam.
 - [_An FPT Algorithm for Approximated Threewidth_](https://github.com/laurab1/Approximated-Threewidth-Report) - [laurab1](https://github.com/laurab1) - Final report 2018-19
 
 ## ALGORITHM ENGINEERING
+- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/AlgorithmEngineering/algeng_notes.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Notes 2018-19**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Exercises**](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams from 2010 to 2018
 - [**Algorithm implementation**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some the algorithms seen in the course
 
 ## ARTIFICIAL INTELLIGENCE FUNDAMENTALS
+- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ArtificialIntelligenceFundamentals/aif.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
 - [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [Donato Meoli](https://github.com/dmeoli)
 - [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [Donato Meoli](https://github.com/dmeoli)
@@ -57,6 +59,7 @@ Collection of useful repositories divided per exam.
 - [**Excercises 2020-21**](https://github.com/piazzesiNiccolo/Competitive-Programming) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Homework solutions
 - [**Report on Union Find**](https://github.com/piazzesiNiccolo/UnionFind-report)- [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - my report on Union-Find data structures
 ## COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
+- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
 - [_Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm_](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01) - Project 2018-19
 - [_2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms_](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse) - Project 2018-19
@@ -92,6 +95,7 @@ Collection of useful repositories divided per exam.
 - [Rewriting Logic](https://github.com/piazzesiNiccolo/foc-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on rewriting logic.
 
 ## HUMAN LANGUAGE TECHNOLOGIES
+- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/HumanLanguageTechnologies/humanlanguagetechnologies.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [Implementing NMT Models](https://github.com/nikodallanoce/HLT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Comparison beetween different NMT models - Project 2020-21
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
 - [Hate Speech Detection](https://github.com/GiovanniSorice/Hate_Speech_Detection) - [Giovanni Sorice](https://github.com/GiovanniSorice), [Francesco Corti](https://github.com/FraCorti) - Evalita-2020 challenge, build an Hate Speech Detector that given a tweet is able to recognize, if it contains hateful content or not - Project 2019-20
@@ -116,7 +120,8 @@ Collection of useful repositories divided per exam.
 ## INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 <details open>
 <summary>Notes and materials:</summary>
-
+  
+- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/IntelligentSystemsforPatternRecognition.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed.
 - [**Tutorial / Demo**](https://github.com/AlexPasqua/signal-image-processing-tutorial) - [Alex Pasquali](https://github.com/AlexPasqua) - Simple signal and image processing tutorial with Matlab
 </details>
@@ -132,7 +137,8 @@ Collection of useful repositories divided per exam.
 <summary>Midterms:</summary>
 <details open>
 <summary>Midterm 1:</summary>
-
+  
+- [**Midterm1** (March 2022)](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm1/FedericoMatteoni_Assignment4.ipynb) - [fexed](https://github.com/fexed) - Image Segmentation
 - [**Midterm1** (March 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm1) - [Alex Pasquali](https://github.com/AlexPasqua) - Autoregressive models
 - [**Midterm1** (March 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
 - [**Midterm1** (March 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1) - [Diletta Goglia](https://github.com/dilettagoglia) - Image processing with SIFT
@@ -140,7 +146,8 @@ Collection of useful repositories divided per exam.
 
 <details open>
 <summary>Midterm 2:</summary>
-
+  
+- [**Midterm2** (April 2022)](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm2/FedericoMatteoni_assignment3.ipynb) - [fexed](https://github.com/fexed) - Implementation of a Restricted Boltzmann Machine (RBM)
 - [**Midterm2** (April 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm2) - [Alex Pasquali](https://github.com/AlexPasqua) - Restricted Boltzmann Machine (RBM)
 - [**Midterm2** (May 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
 - [**Midterm2** (May 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2) - [Diletta Goglia](https://github.com/dilettagoglia) - HMMs for timeseries forecasting
@@ -148,7 +155,8 @@ Collection of useful repositories divided per exam.
 
 <details open>
 <summary>Midterm 3:</summary>
-
+  
+- [**Midterm3** (May 2022)](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm3/FedericoMatteoni_assignment4.ipynb) - [fexed](https://github.com/fexed) - Experiments with CharRNNs
 - [**Midterm3** (May 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm3) - [Alex Pasquali](https://github.com/AlexPasqua) - Autoencoders
 - [**Midterm3** (June 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm3%20(LSTM%20-%20GRU)) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Complete comparison between LSTM and GRU
 - [**Midterm3** (June 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3) - [Diletta Goglia](https://github.com/dilettagoglia) - Gated RNN
@@ -156,13 +164,16 @@ Collection of useful repositories divided per exam.
 
 <details open>
 <summary>Midterm 4:</summary>
-
+  
+- [**Midterm4** (May 2022)](https://github.com/fexed/Notes/tree/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm4) - [fexed](https://github.com/fexed) - Paper Review: Multi-Modal Imitation Learning from Unstructured Demonstrations usign GANs (both submitted slides and a notebook with some notes not included in the presentation)
 - [**Midterm4** (July 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm4) - [Alex Pasquali](https://github.com/AlexPasqua) - Paper review: _Continual Learning with Deep Generative Replay_
 - [**Midterm4** (August 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
 - [**Midterm4** (June 2020)](https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm4) - [Diletta Goglia](https://github.com/dilettagoglia) - CNN for video processing: a review
 </details>
 </details>
 
+## INTRODUCTION TO QUANTUM COMPUTING
+- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntroductiontoQuantumComputing/IntroductiontoQuantumComputing.pdf) - [fexed](https://github.com/fexed) - Notes in English
 
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
@@ -175,6 +186,7 @@ Collection of useful repositories divided per exam.
 - [MicroC compiler](https://github.com/piazzesiNiccolo/microc-compiler)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Final project for the 2020/21 A.Y.
 
 ## MACHINE LEARNING
+- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/MachineLearning/ML.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [Project 2020-21](https://github.com/AlexPasqua/NNs-from-scratch) - [Alex Pasquali](https://github.com/AlexPasqua) and [Gaetano Antonicchio](https://github.com/gaetanoantonicchio) (project type A + report)
 - [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A + report with lecturer feedback).
 - [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/MachineLearning/ML_Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in english :en:
