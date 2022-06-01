@@ -60,6 +60,9 @@ Collection of useful repositories divided per exam.
 - [**Excercises 2020-21**](https://github.com/piazzesiNiccolo/Competitive-Programming) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Homework solutions
 - [**Report on Union Find**](https://github.com/piazzesiNiccolo/UnionFind-report)- [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - my report on Union-Find data structures
 
+## [CHL] COMPUTATIONAL HEALTH LABORATORY
+- [Pathway analysis and merging](https://github.com/nikodallanoce/ComputationalHealthLaboratory) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97), [Andrea Zuppolini](https://github.com/AndreZupp) - Project 2021-22
+
 ## [CM] COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
@@ -72,6 +75,7 @@ Collection of useful repositories divided per exam.
 - [**Quadratic Disjoint simplices**](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra) - Solution of quadratic optimization problem using dual and subgradient methods
 
 ## [CMCS] COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
+- [Cellular automata for highway traffic control](https://github.com/nikodallanoce/TrafficAutomata) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2021-22
 - [**SIRVSD model with different age groups and heterogeneous contacts**](https://github.com/Musca23/SIRVSD-model-with-age-groups) - [Paolo Murgia](https://github.com/Musca23) - Project 2020-21
 
 ## [CNS] COMPUTATIONAL NEUROSCIENCE
