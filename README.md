@@ -142,7 +142,8 @@ Collection of useful repositories divided per exam.
 <summary>Midterms:</summary>
 <details open>
 <summary>Midterm 1:</summary>
-  
+ 
+- [**Midterm1** (March 2022)](https://github.com/jacons/Edge-Detector) - [Jacons](https://github.com/jacons) - Edge-Detector
 - [**Midterm1** (March 2022)](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm1/FedericoMatteoni_Assignment4.ipynb) - [fexed](https://github.com/fexed) - Image Segmentation
 - [**Midterm1** (March 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm1) - [Alex Pasquali](https://github.com/AlexPasqua) - Autoregressive models
 - [**Midterm1** (March 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm1) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Convolution Operators and gradient properties
