@@ -184,6 +184,9 @@ Collection of useful repositories divided per exam.
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
 
+## LANGUAGE BASED TECHNOLOGY FOR SECURITY
+
+- [LBT 21-22](https://github.com/piazzesiNiccolo/LBT) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Homeworks and excercise done for the 2021-22 LBT course
 ## [LCI] LANGUAGES, COMPILERS AND INTERPRETERS
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
 - [**Seminar 2020-21**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/uploads/aa75df10ffe8649e665d2526e14b26ae/oop_procedure_abstraction.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar on Procedure Abstraction from an OOP point of view
