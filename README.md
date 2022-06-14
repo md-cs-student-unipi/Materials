@@ -100,10 +100,19 @@ Collection of useful repositories divided per exam.
 - [Rewriting Logic](https://github.com/piazzesiNiccolo/foc-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on rewriting logic.
 
 ## [HLT] HUMAN LANGUAGE TECHNOLOGIES
+<details open>
+<summary>Notes:</summary>
+
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/HumanLanguageTechnologies/humanlanguagetechnologies.pdf) - [fexed](https://github.com/fexed) - Notes in English
+</details>
+<details open>
+<summary>Projects:</summary>
+
+- [Document classification](https://github.com/EliaPiccoli/HLT-Project) - [Elia Piccoli](https://github.com/EliaPiccoli), [Alex Pasquali](https://github.com/AlexPasqua), [Nicola Gugole](https://github.com/NicolaGugole) - Automatic document classification tool for the Italian Public Administration - Project 2020-21
 - [Implementing NMT Models](https://github.com/nikodallanoce/HLT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Comparison beetween different NMT models - Project 2020-21
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
 - [Hate Speech Detection](https://github.com/GiovanniSorice/Hate_Speech_Detection) - [Giovanni Sorice](https://github.com/GiovanniSorice), [Francesco Corti](https://github.com/FraCorti) - Evalita-2020 challenge, build an Hate Speech Detector that given a tweet is able to recognize, if it contains hateful content or not - Project 2019-20
+</details>
 
 ## [ICT-INFR] ICT INFRASTRUCTURES
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
