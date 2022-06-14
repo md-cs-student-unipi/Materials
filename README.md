@@ -19,7 +19,7 @@ Collection of useful repositories divided per exam.
 - [**Exercises 2019-20**](https://github.com/GaspareG/AdvanceProgrammingAssignments) - [GaspareG](https://github.com/GaspareG/) - Assigments
 - [**Excercises 2020-21**](https://github.com/piazzesiNiccolo/Advanced-Programming) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Excercises and assignments
 - [**Excercises 2020-21**](https://gitlab.com/vincenzopalazzo/ap-20) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Assigments and Haskell Excercises
-- 
+
 ## [ASE] ADVANCED SOFTWARE ENGINEERING
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
@@ -82,18 +82,37 @@ Collection of useful repositories divided per exam.
 - Be the first to contribute, open a pull request with your material!
 
 ## [DM] DATA MINING
+<details open>
+<summary>Notes:</summary>
+
 - [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth),  [Federico Mazzoni](https://github.com/FedericoMz) - in Italian
-- [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
-- [Tennis Matches](https://github.com/nikodallanoce/DataMiningProject) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2021-22
-- [Tennis Analysis](https://github.com/reuseman/tennis-match-analysis) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni) - Project 2021-22
-- [Customer's analysis](https://github.com/dilettagoglia/DataMining) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix) - DM Project 2020-21
-- [_IBM dataset_](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, [Federico Mazzoni](https://github.com/FedericoMz) - Project for Data Mining I 2020-21
-- [Online Retail: Customer's analysis](https://github.com/CoffeeStraw/Store-Customers-Analysis) - [Antonio Strippoli](https://github.com/CoffeeStraw), [Valerio Mariani](https://github.com/sd3ntato) - Project 2020-21
-- [Online Retail](https://github.com/dmeoli/DataMiningUniPi) - [Donato Meoli](https://github.com/dmeoli), [Enrico D'Arco](https://github.com/darcoenr), [Luigi Quarantiello](https://github.com/poxebur) - Project 2020-21
-- [Online Retail](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
-- [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
-- [_Credit Card Default_](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Project 2018-19
-- [_Credit Card Default_](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94) -  Project 2018-19
+- [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) 
+</details>
+
+<details open>
+<summary>Projects for the course of <b>Data Mining</b> in the MSc of <b>Computer Science</b></summary>
+
+- [Project 2021-22](https://github.com/nikodallanoce/DataMiningProject) (Tennis matches) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97)
+- [Project 2021-22](https://github.com/reuseman/tennis-match-analysis) (Tennis matches) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni)
+- [Project 2020-21](https://github.com/dilettagoglia/DataMining) (Customers analysis) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix)
+- [Project 2020-21](https://github.com/CoffeeStraw/Store-Customers-Analysis) (Customers analysis) - [Antonio Strippoli](https://github.com/CoffeeStraw), [Valerio Mariani](https://github.com/sd3ntato)
+- [Project 2020-21](https://github.com/dmeoli/DataMiningUniPi) (Customers analysis) - [Donato Meoli](https://github.com/dmeoli), [Enrico D'Arco](https://github.com/darcoenr), [Luigi Quarantiello](https://github.com/poxebur)
+- [Project 2020-21](https://github.com/AlexPasqua/DM-project) (Customers analysis) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole)
+- [Project 2019-20](https://github.com/andybbruno/DataMining) (Carvana Car Auctions) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi)
+- [Project 2018-19](https://github.com/GaspareG/DMUniPi) (Credit Card Default) - [GaspareG](https://github.com/GaspareG)
+- [Project 2018-19](https://github.com/lucacorbucci/DataMiningProject2018) (Credit Card Default) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94)
+</details>
+<details open>
+<summary>Projects for the course of <b>Data Mining I</b> in the MSc of <b>Data Science & Business Informatics</b></summary>
+
+- [Project 2020-21](https://github.com/gaetanoantonicchio/DataMining-1) (IBM dataset) - [Gaetano Antonicchio](https://github.com/gaetanoantonicchio)
+- [Project 2020-21](https://github.com/lyereth/Data-Mining-project) (IBM dataset) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, [Federico Mazzoni](https://github.com/FedericoMz)
+</details>
+<details open>
+<summary>Projects for the course of <b>Data Mining II</b> in the MSc of <b>Data Science & Business Informatics</b></summary>
+
+- [Project 2021-22](https://github.com/gaetanoantonicchio/DataMining-2) (Audio signals processing) - [Gaetano Antonicchio](https://github.com/gaetanoantonicchio)
+</details>
 
 ## [FOC] FOUNDATION OF COMPUTING
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
