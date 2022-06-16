@@ -39,6 +39,9 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams from 2010 to 2018
 - [**Algorithm implementation**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some the algorithms seen in the course
 
+## ALGORITHMIC GAME THEORY
+- Be the first to contribute, open a pull request with your material!
+
 ## [AIF] ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ArtificialIntelligenceFundamentals/aif.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
@@ -49,6 +52,9 @@ Collection of useful repositories divided per exam.
 
 ## [BIO] BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
+
+## BUSINESS PROCESS MODELING
+- Be the first to contribute, open a pull request with your material!
 
 ## [CPC] COMPETITIVE PROGRAMMING AND CONTESTS
 - [**Exercises 2018-19**](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks and some exams
@@ -230,11 +236,17 @@ Collection of useful repositories divided per exam.
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
 
+## LABORATORY ON ICT STARTUP BUILDING
+- Be the first to contribute, open a pull request with your material!
+
 ## [LCI] LANGUAGES, COMPILERS AND INTERPRETERS
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
 - [**Seminar 2020-21**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/uploads/aa75df10ffe8649e665d2526e14b26ae/oop_procedure_abstraction.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar on Procedure Abstraction from an OOP point of view
 - [Parsing Expression Grammars](https://github.com/piazzesiNiccolo/LCI-seminar-on-PEGs)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - My seminar for the final exam
 - [MicroC compiler](https://github.com/piazzesiNiccolo/microc-compiler)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Final project for the 2020/21 A.Y.
+
+## LANGUAGE-BASED TECHNOLOGY FOR SECURITY
+- Be the first to contribute, open a pull request with your material!
 
 ## [ML] MACHINE LEARNING
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/MachineLearning/ML.pdf) - [fexed](https://github.com/fexed) - Notes in English
@@ -321,3 +333,9 @@ Collection of useful repositories divided per exam.
 ## [SVV] SOFTWARE VALIDATION AND VERIFICATION
 - [SPIN by Examples](https://gitlab.com/vincenzopalazzo/spin-by-examples) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar 2021/2022 about SPIN.
 - [Separation Logic](https://github.com/piazzesiNiccolo/svv-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on separation logic.
+
+## WIRELESS NETWORKS OF EMBEDDED SYSTEMS
+- Be the first to contribute, open a pull request with your material!
+
+## 3D GEOMETRIC MODELING & PROCESSING
+- Be the first to contribute, open a pull request with your material!
