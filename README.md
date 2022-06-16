@@ -64,15 +64,31 @@ Collection of useful repositories divided per exam.
 - [Pathway analysis and merging](https://github.com/nikodallanoce/ComputationalHealthLaboratory) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97), [Andrea Zuppolini](https://github.com/AndreZupp) - Project 2021-22
 
 ## [CM] COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
-- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
-- [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
-- [_Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm_](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01) - Project 2018-19
-- [_2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms_](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse) - Project 2018-19
-- [_Quadratic Min-Cost Flow_](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) - Project 2018-19: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
-- [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/optimization) - [Donato Meoli](https://github.com/dmeoli)
-- [_Neuradillo2.0_](https://github.com/FraCorti/CMProject) - **Gradient Descent, L-BFGS, Bundle Methods** -[FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice)- Project 2019-20
-- [**Appunti ottimizzazione**](/Notes/CM_Ottimizzazione.pdf) - Federica Di Pasquale
-- [**Quadratic Disjoint simplices**](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra) - Solution of quadratic optimization problem using dual and subgradient methods
+<details open>
+<summary>Notes:</summary>
+
+- [Notes 2021-22](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
+- [Appunti ottimizzazione](/Notes/CM_Ottimizzazione.pdf) - Federica Di Pasquale
+</details>
+<details open>
+<summary>Projects:</summary>
+
+- [Project 2021-22](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra):
+    - Solution of quadratic optimization problem using dual and subgradient methods
+- [Project 2020-21 (n° 3 ML)](https://github.com/AlexPasqua/CM-project) - [Alex Pasquali](https://github.com/AlexPasqua) and [Davide Montagno B.](https://github.com/DavideMontagno):
+    - Implementation of SGD, a standard momentum approach (Heavy Ball) and an accelerated gradient method (Nesterov Momentum) on a NN with L1 regularization. Implementation of a direct linear least squares solver (SVD decomposition)
+- [Project 2019-20](https://github.com/FraCorti/CMProject) - [FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice):
+    - _Neuradillo2.0_ - Gradient Descent, L-BFGS, Bundle Methods
+- [Project 2018-19 (n°14 No-ML)](https://bitbucket.org/melfnt/cmproject) (with report and lecturers' feedback) - Lucio Messina and Ivan Carosi:
+    - Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`
+- [Project 2018-19](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01):
+    - Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm
+- [Project 2018-19](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse):
+    - 2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms
+- [Project 2018-19](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96):
+    - Quadratic Min-Cost Flow: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
+- [Constrained & Unconstrained Optimizers](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/optimization) - [Donato Meoli](https://github.com/dmeoli)
+</details>
 
 ## [CMCS] COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 - [Cellular automata for highway traffic control](https://github.com/nikodallanoce/TrafficAutomata) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2021-22
