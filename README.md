@@ -196,7 +196,8 @@ Collection of useful repositories divided per exam.
 
 <details open>
 <summary>Midterm 2:</summary>
-  
+
+- [**Midterm2** (April 2022)](https://github.com/jacons/R.-Boltzmann-machine-Py-Cpp) - [Jacons](https://github.com/jacons) - Restricted Boltzmann Machine in Py and C++(RBM)
 - [**Midterm2** (April 2022)](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm2/FedericoMatteoni_assignment3.ipynb) - [fexed](https://github.com/fexed) - Implementation of a Restricted Boltzmann Machine (RBM)
 - [**Midterm2** (April 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm2) - [Alex Pasquali](https://github.com/AlexPasqua) - Restricted Boltzmann Machine (RBM)
 - [**Midterm2** (May 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
@@ -215,6 +216,7 @@ Collection of useful repositories divided per exam.
 <details open>
 <summary>Midterm 4:</summary>
   
+- [**Midterm4** (May 2022)](https://github.com/jacons/Automatic-Goal-Generation-for-RL) - [Jacons](https://github.com/jacons) - Automatic-Goal-Generation-for-RL
 - [**Midterm4** (May 2022)](https://github.com/fexed/Notes/tree/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm4) - [fexed](https://github.com/fexed) - Paper Review: Multi-Modal Imitation Learning from Unstructured Demonstrations usign GANs (both submitted slides and a notebook with some notes not included in the presentation)
 - [**Midterm4** (July 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm4) - [Alex Pasquali](https://github.com/AlexPasqua) - Paper review: _Continual Learning with Deep Generative Replay_
 - [**Midterm4** (August 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
@@ -244,6 +246,7 @@ Collection of useful repositories divided per exam.
 - [Project 2018-19](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96)
 - [**Neural Networks & Support Vector Machines**](https://github.com/dmeoli/optiml/tree/master/optiml/ml) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/ml) - [dmeoli](https://github.com/dmeoli)
 - [Project 2019-20](https://github.com/GiovanniSorice/MLProject) - _Neuradillo_ -[GiovanniSorice](https://github.com/GiovanniSorice) and [FraCorti](https://github.com/FraCorti) - (standard project, type A + report).
+- [Project 2021-22](https://github.com/jacons/Neural_Network_from_scratch) - [jacons](https://github.com/jacons) Neural Network from scratch
 
 ## [MCPS] MOBILE AND CYBER-PHYSICAL SYSTEMS
 - [S.E.B. Smart Environment Bot](https://github.com/nikodallanoce/MCPS) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2020-21
@@ -271,6 +274,7 @@ Collection of useful repositories divided per exam.
 - [_ImgWatermark_](https://github.com/antonio-sisbarra/ImgWatermark) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
 - [**cpp-bps project**](https://gitlab.com/vincenzopalazzo/cpp-bps) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Project 2020/2021 related to frameworks developments with a curated C++ and cmake file.
+- [Video Motion Detect](https://github.com/jacons/Video-Motion-Detect) - [jacons](https://github.com/jacons) - Project 2021-22
 
 ## [P2P] PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [Voting DApp](https://github.com/reuseman/voting-dapp) - [Alex Colucci](https://github.com/reuseman) - FinalTerm 2021-21
