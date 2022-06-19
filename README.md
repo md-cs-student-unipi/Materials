@@ -19,7 +19,7 @@ Collection of useful repositories divided per exam.
 - [**Exercises 2019-20**](https://github.com/GaspareG/AdvanceProgrammingAssignments) - [GaspareG](https://github.com/GaspareG/) - Assigments
 - [**Excercises 2020-21**](https://github.com/piazzesiNiccolo/Advanced-Programming) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Excercises and assignments
 - [**Excercises 2020-21**](https://gitlab.com/vincenzopalazzo/ap-20) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Assigments and Haskell Excercises
-- 
+
 ## [ASE] ADVANCED SOFTWARE ENGINEERING
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
@@ -39,6 +39,9 @@ Collection of useful repositories divided per exam.
 - [**Exercises**](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams from 2010 to 2018
 - [**Algorithm implementation**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some the algorithms seen in the course
 
+## ALGORITHMIC GAME THEORY
+- Be the first to contribute, open a pull request with your material!
+
 ## [AIF] ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ArtificialIntelligenceFundamentals/aif.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
@@ -49,6 +52,9 @@ Collection of useful repositories divided per exam.
 
 ## [BIO] BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
+
+## BUSINESS PROCESS MODELING
+- Be the first to contribute, open a pull request with your material!
 
 ## [CPC] COMPETITIVE PROGRAMMING AND CONTESTS
 - [**Exercises 2018-19**](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks and some exams
@@ -64,15 +70,31 @@ Collection of useful repositories divided per exam.
 - [Pathway analysis and merging](https://github.com/nikodallanoce/ComputationalHealthLaboratory) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97), [Andrea Zuppolini](https://github.com/AndreZupp) - Project 2021-22
 
 ## [CM] COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
-- [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
-- [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
-- [_Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm_](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01) - Project 2018-19
-- [_2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms_](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse) - Project 2018-19
-- [_Quadratic Min-Cost Flow_](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96) - Project 2018-19: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
-- [**Constrained & Unconstrained Optimizers**](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/optimization) - [Donato Meoli](https://github.com/dmeoli)
-- [_Neuradillo2.0_](https://github.com/FraCorti/CMProject) - **Gradient Descent, L-BFGS, Bundle Methods** -[FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice)- Project 2019-20
-- [**Appunti ottimizzazione**](/Notes/CM_Ottimizzazione.pdf) - Federica Di Pasquale
-- [**Quadratic Disjoint simplices**](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra) - Solution of quadratic optimization problem using dual and subgradient methods
+<details open>
+<summary>Notes:</summary>
+
+- [Notes 2021-22](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
+- [Appunti ottimizzazione](/Notes/CM_Ottimizzazione.pdf) - Federica Di Pasquale
+</details>
+<details open>
+<summary>Projects:</summary>
+
+- [Project 2021-22](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra):
+    - Solution of quadratic optimization problem using dual and subgradient methods
+- [Project 2020-21 (n° 3 ML)](https://github.com/AlexPasqua/CM-project) - [Alex Pasquali](https://github.com/AlexPasqua) and [Davide Montagno B.](https://github.com/DavideMontagno):
+    - Implementation of SGD, a standard momentum approach (Heavy Ball) and an accelerated gradient method (Nesterov Momentum) on a NN with L1 regularization. Implementation of a direct linear least squares solver (SVD decomposition)
+- [Project 2019-20](https://github.com/FraCorti/CMProject) - [FraCorti](https://github.com/FraCorti) and [GiovanniSorice](https://github.com/GiovanniSorice):
+    - _Neuradillo2.0_ - Gradient Descent, L-BFGS, Bundle Methods
+- [Project 2018-19 (n°14 No-ML)](https://bitbucket.org/melfnt/cmproject) (with report and lecturers' feedback) - Lucio Messina and Ivan Carosi:
+    - Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`
+- [Project 2018-19](https://github.com/germz01/CMLDA) - [germz01](https://github.com/germz01):
+    - Neural Network's implementation using either the Stochastic Gradient Descent or the Conjugate Gradient Descent as optimization algorithm
+- [Project 2018-19](https://github.com/MarioBonse/CMProject) - [MarioBonse](https://github.com/MarioBonse):
+    - 2-norm matrix calculus as an uncostrained optimization problem with the "Conjugate Gradient" and "Steppeste Descent Direction" algorithms
+- [Project 2018-19](https://github.com/guanaco96/Quadratic_Min-Cost_Flow) - [guanaco96](https://github.com/guanaco96):
+    - Quadratic Min-Cost Flow: a solver for quadratic separable min-cost flow problem relying on conjugate gradient algorithm
+- [Constrained & Unconstrained Optimizers](https://github.com/dmeoli/optiml/tree/master/optiml/opti) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/optimization) - [Donato Meoli](https://github.com/dmeoli)
+</details>
 
 ## [CMCS] COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
 - [Cellular automata for highway traffic control](https://github.com/nikodallanoce/TrafficAutomata) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2021-22
@@ -82,28 +104,56 @@ Collection of useful repositories divided per exam.
 - Be the first to contribute, open a pull request with your material!
 
 ## [DM] DATA MINING
+<details open>
+<summary>Notes:</summary>
+
 - [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth),  [Federico Mazzoni](https://github.com/FedericoMz) - in Italian
-- [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
-- [Tennis Matches](https://github.com/nikodallanoce/DataMiningProject) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2021-22
-- [Tennis Analysis](https://github.com/reuseman/tennis-match-analysis) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni) - Project 2021-22
-- [Customer's analysis](https://github.com/dilettagoglia/DataMining) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix) - DM Project 2020-21
-- [_IBM dataset_](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, [Federico Mazzoni](https://github.com/FedericoMz) - Project for Data Mining I 2020-21
-- [Online Retail: Customer's analysis](https://github.com/CoffeeStraw/Store-Customers-Analysis) - [Antonio Strippoli](https://github.com/CoffeeStraw), [Valerio Mariani](https://github.com/sd3ntato) - Project 2020-21
-- [Online Retail](https://github.com/dmeoli/DataMiningUniPi) - [Donato Meoli](https://github.com/dmeoli), [Enrico D'Arco](https://github.com/darcoenr), [Luigi Quarantiello](https://github.com/poxebur) - Project 2020-21
-- [Online Retail](https://github.com/AlexPasqua/DM-project) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole) - Project 2020-21
-- [_Carvana Car Auctions_](https://github.com/andybbruno/DataMining) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi) - Project 2019-20
-- [_Credit Card Default_](https://github.com/GaspareG/DMUniPi) - [GaspareG](https://github.com/GaspareG) - Project 2018-19
-- [_Credit Card Default_](https://github.com/lucacorbucci/DataMiningProject2018) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94) -  Project 2018-19
+- [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) 
+</details>
+
+<details open>
+<summary>Projects for the course of <b>Data Mining</b> in the MSc of <b>Computer Science</b></summary>
+
+- [Project 2021-22](https://github.com/nikodallanoce/DataMiningProject) (Tennis matches) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97)
+- [Project 2021-22](https://github.com/reuseman/tennis-match-analysis) (Tennis matches) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni)
+- [Project 2020-21](https://github.com/dilettagoglia/DataMining) (Customers analysis) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix)
+- [Project 2020-21](https://github.com/CoffeeStraw/Store-Customers-Analysis) (Customers analysis) - [Antonio Strippoli](https://github.com/CoffeeStraw), [Valerio Mariani](https://github.com/sd3ntato)
+- [Project 2020-21](https://github.com/dmeoli/DataMiningUniPi) (Customers analysis) - [Donato Meoli](https://github.com/dmeoli), [Enrico D'Arco](https://github.com/darcoenr), [Luigi Quarantiello](https://github.com/poxebur)
+- [Project 2020-21](https://github.com/AlexPasqua/DM-project) (Customers analysis) - [Alex Pasquali](https://github.com/AlexPasqua), [Elia Piccoli](https://github.com/EliaPiccoli), [Nicola Gugole](https://github.com/NicolaGugole)
+- [Project 2019-20](https://github.com/andybbruno/DataMining) (Carvana Car Auctions) - [andybbruno](https://github.com/andybbruno), [LorenzoBellomo](https://github.com/LorenzoBellomo), [martascalisi](https://github.com/martascalisi)
+- [Project 2018-19](https://github.com/GaspareG/DMUniPi) (Credit Card Default) - [GaspareG](https://github.com/GaspareG)
+- [Project 2018-19](https://github.com/lucacorbucci/DataMiningProject2018) (Credit Card Default) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94)
+</details>
+<details open>
+<summary>Projects for the course of <b>Data Mining I</b> in the MSc of <b>Data Science & Business Informatics</b></summary>
+
+- [Project 2020-21](https://github.com/gaetanoantonicchio/DataMining-1) (IBM dataset) - [Gaetano Antonicchio](https://github.com/gaetanoantonicchio)
+- [Project 2020-21](https://github.com/lyereth/Data-Mining-project) (IBM dataset) - [Erica Cau](https://github.com/lyereth), Alfonso Ferraro, Simona Mazzarino, [Federico Mazzoni](https://github.com/FedericoMz)
+</details>
+<details open>
+<summary>Projects for the course of <b>Data Mining II</b> in the MSc of <b>Data Science & Business Informatics</b></summary>
+
+- [Project 2021-22](https://github.com/gaetanoantonicchio/DataMining-2) (Audio signals processing) - [Gaetano Antonicchio](https://github.com/gaetanoantonicchio)
+</details>
 
 ## [FOC] FOUNDATION OF COMPUTING
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
 - [Rewriting Logic](https://github.com/piazzesiNiccolo/foc-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on rewriting logic.
 
 ## [HLT] HUMAN LANGUAGE TECHNOLOGIES
+<details open>
+<summary>Notes:</summary>
+
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/HumanLanguageTechnologies/humanlanguagetechnologies.pdf) - [fexed](https://github.com/fexed) - Notes in English
+</details>
+<details open>
+<summary>Projects:</summary>
+
+- [Document classification](https://github.com/EliaPiccoli/HLT-Project) - [Elia Piccoli](https://github.com/EliaPiccoli), [Alex Pasquali](https://github.com/AlexPasqua), [Nicola Gugole](https://github.com/NicolaGugole) - Automatic document classification tool for the Italian Public Administration - Project 2020-21
 - [Implementing NMT Models](https://github.com/nikodallanoce/HLT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Comparison beetween different NMT models - Project 2020-21
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
 - [Hate Speech Detection](https://github.com/GiovanniSorice/Hate_Speech_Detection) - [Giovanni Sorice](https://github.com/GiovanniSorice), [Francesco Corti](https://github.com/FraCorti) - Evalita-2020 challenge, build an Hate Speech Detector that given a tweet is able to recognize, if it contains hateful content or not - Project 2019-20
+</details>
 
 ## [ICT-INFR] ICT INFRASTRUCTURES
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
@@ -152,7 +202,8 @@ Collection of useful repositories divided per exam.
 
 <details open>
 <summary>Midterm 2:</summary>
-  
+
+- [**Midterm2** (April 2022)](https://github.com/jacons/R.-Boltzmann-machine-Py-Cpp) - [Jacons](https://github.com/jacons) - Restricted Boltzmann Machine in Py and C++(RBM)
 - [**Midterm2** (April 2022)](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm2/FedericoMatteoni_assignment3.ipynb) - [fexed](https://github.com/fexed) - Implementation of a Restricted Boltzmann Machine (RBM)
 - [**Midterm2** (April 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm2) - [Alex Pasquali](https://github.com/AlexPasqua) - Restricted Boltzmann Machine (RBM)
 - [**Midterm2** (May 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm2) - [Davide Montagno B.](https://github.com/DavideMontagno/) - LDA for images
@@ -171,6 +222,7 @@ Collection of useful repositories divided per exam.
 <details open>
 <summary>Midterm 4:</summary>
   
+- [**Midterm4** (May 2022)](https://github.com/jacons/Automatic-Goal-Generation-for-RL) - [Jacons](https://github.com/jacons) - Automatic-Goal-Generation-for-RL
 - [**Midterm4** (May 2022)](https://github.com/fexed/Notes/tree/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/assignments/midterm4) - [fexed](https://github.com/fexed) - Paper Review: Multi-Modal Imitation Learning from Unstructured Demonstrations usign GANs (both submitted slides and a notebook with some notes not included in the presentation)
 - [**Midterm4** (July 2021)](https://github.com/AlexPasqua/ISPR-midterms/tree/main/midterm4) - [Alex Pasquali](https://github.com/AlexPasqua) - Paper review: _Continual Learning with Deep Generative Replay_
 - [**Midterm4** (August 2020)](https://github.com/DavideMontagno/Magistrale/tree/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Midterm4) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Introduction to Creative Generative Adversarial Network (Facebook)
@@ -184,14 +236,18 @@ Collection of useful repositories divided per exam.
 ## LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
 
-## LANGUAGE BASED TECHNOLOGY FOR SECURITY
+## LABORATORY ON ICT STARTUP BUILDING
+- Be the first to contribute, open a pull request with your material!
 
-- [LBT 21-22](https://github.com/piazzesiNiccolo/LBT) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Homeworks and excercise done for the 2021-22 LBT course
+
 ## [LCI] LANGUAGES, COMPILERS AND INTERPRETERS
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
 - [**Seminar 2020-21**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/uploads/aa75df10ffe8649e665d2526e14b26ae/oop_procedure_abstraction.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar on Procedure Abstraction from an OOP point of view
 - [Parsing Expression Grammars](https://github.com/piazzesiNiccolo/LCI-seminar-on-PEGs)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - My seminar for the final exam
 - [MicroC compiler](https://github.com/piazzesiNiccolo/microc-compiler)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Final project for the 2020/21 A.Y.
+
+## LANGUAGE-BASED TECHNOLOGY FOR SECURITY
+- [LBT 21-22](https://github.com/piazzesiNiccolo/LBT) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Homeworks and excercise done for the 2021-22 LBT course
 
 ## [ML] MACHINE LEARNING
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/MachineLearning/ML.pdf) - [fexed](https://github.com/fexed) - Notes in English
@@ -203,6 +259,7 @@ Collection of useful repositories divided per exam.
 - [Project 2018-19](https://github.com/guanaco96/ML_project) - [guanaco96](https://github.com/guanaco96)
 - [**Neural Networks & Support Vector Machines**](https://github.com/dmeoli/optiml/tree/master/optiml/ml) with [notebooks](https://github.com/dmeoli/optiml/tree/master/notebooks/ml) - [dmeoli](https://github.com/dmeoli)
 - [Project 2019-20](https://github.com/GiovanniSorice/MLProject) - _Neuradillo_ -[GiovanniSorice](https://github.com/GiovanniSorice) and [FraCorti](https://github.com/FraCorti) - (standard project, type A + report).
+- [Project 2021-22](https://github.com/jacons/Neural_Network_from_scratch) - [jacons](https://github.com/jacons) Neural Network from scratch
 
 ## [MCPS] MOBILE AND CYBER-PHYSICAL SYSTEMS
 - [S.E.B. Smart Environment Bot](https://github.com/nikodallanoce/MCPS) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2020-21
@@ -230,6 +287,7 @@ Collection of useful repositories divided per exam.
 - [_ImgWatermark_](https://github.com/antonio-sisbarra/ImgWatermark) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
 - [**cpp-bps project**](https://gitlab.com/vincenzopalazzo/cpp-bps) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Project 2020/2021 related to frameworks developments with a curated C++ and cmake file.
+- [Video Motion Detect](https://github.com/jacons/Video-Motion-Detect) - [jacons](https://github.com/jacons) - Project 2021-22
 
 ## [P2P] PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [Voting DApp](https://github.com/reuseman/voting-dapp) - [Alex Colucci](https://github.com/reuseman) - FinalTerm 2021-21
@@ -276,3 +334,9 @@ Collection of useful repositories divided per exam.
 ## [SVV] SOFTWARE VALIDATION AND VERIFICATION
 - [SPIN by Examples](https://gitlab.com/vincenzopalazzo/spin-by-examples) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar 2021/2022 about SPIN.
 - [Separation Logic](https://github.com/piazzesiNiccolo/svv-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on separation logic.
+
+## WIRELESS NETWORKS OF EMBEDDED SYSTEMS
+- Be the first to contribute, open a pull request with your material!
+
+## 3D GEOMETRIC MODELING & PROCESSING
+- Be the first to contribute, open a pull request with your material!
