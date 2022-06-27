@@ -175,7 +175,9 @@ Collection of useful repositories divided per exam.
 ## [ISPR] INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
 <details open>
 <summary>Notes and materials:</summary>
-  
+
+- [**Notes 2021-22**](https://github.com/gdacciaro/UniPi-ISPR-Materials/blob/main/notes/ISPR_Acciaro_notes.pdf) - [G.D.Acciaro](https://github.com/gdacciaro) - Notes in English
+
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/IntelligentSystemsforPatternRecognition.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Notes (2019-2020)**](https://github.com/DavideMontagno/Magistrale/blob/master/Intelligent%20Systems%20for%20Pattern%20Recognition%20A.A.%202019-20%20(ISPR)/Pattern.pdf) - [Davide Montagno B.](https://github.com/DavideMontagno/) - Not Reviewed.
 - [**Tutorial / Demo**](https://github.com/AlexPasqua/signal-image-processing-tutorial) - [Alex Pasquali](https://github.com/AlexPasqua) - Simple signal and image processing tutorial with Matlab
