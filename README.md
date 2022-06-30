@@ -310,6 +310,7 @@ Collection of useful repositories divided per exam.
 
 ## [PSC] PRINCIPLES FOR SOFTWARE COMPOSITION
 - [**derivationtree project**](https://gitlab.com/vincenzopalazzo/derivationtree) - [vincenzopalazzo](https://github.com/vincenzopalazzo) IMP derivation tree project.
+- [**Q&A for Oral Exam**](https://github.com/gabryon99/psc-2021-22) - [gabryon99](https://github.com/gabryon99) Cheat-sheet containing answers for the oral exam questions.
 
 ## ROBOTICS
 - [_Mind map_](https://github.com/dilettagoglia/Robotics) - [Diletta Goglia](https://github.com/dilettagoglia) - Map of the whole programme of ROB course, A.Y. 2019/20
