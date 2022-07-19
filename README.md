@@ -101,7 +101,8 @@ Collection of useful repositories divided per exam.
 - [**SIRVSD model with different age groups and heterogeneous contacts**](https://github.com/Musca23/SIRVSD-model-with-age-groups) - [Paolo Murgia](https://github.com/Musca23) - Project 2020-21
 
 ## [CNS] COMPUTATIONAL NEUROSCIENCE
-- Be the first to contribute, open a pull request with your material!
+- [Assignments Lab 2022](https://github.com/icezimmer/CNS_lab) [Giuseppe Lombardi](https://github.com/icezimmer)
+- [Human activuty recognition by ESN](https://github.com/icezimmer/HARbyESNs) - [Giuseppe Lombardi]((https://github.com/icezimmer))
 
 ## [DM] DATA MINING
 <details open>
@@ -154,6 +155,7 @@ Collection of useful repositories divided per exam.
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
 - [Hate Speech Detection](https://github.com/GiovanniSorice/Hate_Speech_Detection) - [Giovanni Sorice](https://github.com/GiovanniSorice), [Francesco Corti](https://github.com/FraCorti) - Evalita-2020 challenge, build an Hate Speech Detector that given a tweet is able to recognize, if it contains hateful content or not - Project 2019-20
 </details>
+- [Target-aspect-sentiment joint detection](https://github.com/icezimmer/HLTproject) - [Giuseppe Lombardi](https://github.com/icezimmer)
 
 ## [ICT-INFR] ICT INFRASTRUCTURES
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
@@ -278,7 +280,7 @@ Collection of useful repositories divided per exam.
 - [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [AlessandroBerti](https://github.com/Brotherhood94)
 - [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/autonomic-farm) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
 - [Assignments + _BSP_](https://github.com/LorenzoBellomo/ParallelAndDistributedSystem) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Assignments and project 2018-19
-- [Assignments 2022](https://github.com/icezimmer/SPM_lab) - [icezimmer](https://github.com/icezimmer)
+- [Assignments 2022](https://github.com/icezimmer/SPM_lab) - [Giuseppe Lombardi](https://github.com/icezimmer)
 - [TSP with Genetic Algorithms](https://github.com/FraCorti/TSP-GeneticAlgorithm) - [FraCorti](https://github.com/FraCorti) - Project 2020-21
 - [_PRUDEnce_](https://github.com/karjudev/prudence-spm) - [karjudev](https://github.com/karjudev) - Project 2020-21 - Free choice
 - [*Parallel Boruvka*](https://github.com/matteodefra/Parallel_Boruvka) - [matteodefra](https://github.com/matteodefra) - Parallel implementation of the Boruvka (or Sollin's) algorithm to find the minimum spanning tree of an undirected graph
