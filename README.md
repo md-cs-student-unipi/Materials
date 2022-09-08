@@ -272,15 +272,30 @@ Collection of useful repositories divided per exam.
 - [_SmartCoffee: IoT + AI to remove queues_](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo) - Project 2018-19
 
 ## [PDS/SPM] PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
+- [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
+
+<details open>
+<summary>Notes:</summary>
+
 - [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/Parallel/Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in italian :it:
 - [**Notes**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94) - in italian :it:
-- [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
+</details>
+
+<details open>
+<summary>Assignments:</summary>
+
 - [Assignments 2020](https://github.com/MarioBonse/parallel_programming) - [MarioBonse](https://github.com/MarioBonse)
 - [Assignments](https://github.com/lucacorbucci/SPM19) - [lucacorbucci](https://github.com/lucacorbucci)
 - [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [AlessandroBerti](https://github.com/Brotherhood94)
 - [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/autonomic-farm) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
 - [Assignments + _BSP_](https://github.com/LorenzoBellomo/ParallelAndDistributedSystem) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Assignments and project 2018-19
 - [Assignments 2022](https://github.com/icezimmer/SPM_lab) - [Giuseppe Lombardi](https://github.com/icezimmer)
+</details>
+
+<details open>
+<summary>Projects:</summary>
+
+- [Video motion detect](https://github.com/AlexPasqua/SPM-project) - [Alex Pasquali](https://github.com/AlexPasqua) - Project 2021-22
 - [TSP with Genetic Algorithms](https://github.com/FraCorti/TSP-GeneticAlgorithm) - [FraCorti](https://github.com/FraCorti) - Project 2020-21
 - [_PRUDEnce_](https://github.com/karjudev/prudence-spm) - [karjudev](https://github.com/karjudev) - Project 2020-21 - Free choice
 - [*Parallel Boruvka*](https://github.com/matteodefra/Parallel_Boruvka) - [matteodefra](https://github.com/matteodefra) - Parallel implementation of the Boruvka (or Sollin's) algorithm to find the minimum spanning tree of an undirected graph
@@ -293,6 +308,7 @@ Collection of useful repositories divided per exam.
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
 - [**cpp-bps project**](https://gitlab.com/vincenzopalazzo/cpp-bps) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Project 2020/2021 related to frameworks developments with a curated C++ and cmake file.
 - [Video Motion Detect](https://github.com/jacons/Video-Motion-Detect) - [jacons](https://github.com/jacons) - Project 2021-22
+</details>
 
 ## [P2P] PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [Voting DApp](https://github.com/reuseman/voting-dapp) - [Alex Colucci](https://github.com/reuseman) - FinalTerm 2021-21
