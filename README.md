@@ -101,8 +101,8 @@ Collection of useful repositories divided per exam.
 - [**SIRVSD model with different age groups and heterogeneous contacts**](https://github.com/Musca23/SIRVSD-model-with-age-groups) - [Paolo Murgia](https://github.com/Musca23) - Project 2020-21
 
 ## [CNS] COMPUTATIONAL NEUROSCIENCE
-- [Assignments Lab 2022](https://github.com/icezimmer/CNS_lab) [Giuseppe Lombardi](https://github.com/icezimmer)
-- [Human activuty recognition by ESN](https://github.com/icezimmer/HARbyESNs) - [Giuseppe Lombardi]((https://github.com/icezimmer))
+- [Assignments](https://github.com/icezimmer/CNS_lab) - [Giuseppe Lombardi](https://github.com/icezimmer) - Assignments Lab 2021-2022
+- [Human activuty recognition by ESN](https://github.com/icezimmer/HARbyESNs) - [Giuseppe Lombardi](https://github.com/icezimmer) - Project 2021-2022
 
 ## [DM] DATA MINING
 <details open>
@@ -153,9 +153,9 @@ Collection of useful repositories divided per exam.
 - [Document classification](https://github.com/EliaPiccoli/HLT-Project) - [Elia Piccoli](https://github.com/EliaPiccoli), [Alex Pasquali](https://github.com/AlexPasqua), [Nicola Gugole](https://github.com/NicolaGugole) - Automatic document classification tool for the Italian Public Administration - Project 2020-21
 - [Implementing NMT Models](https://github.com/nikodallanoce/HLT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Comparison beetween different NMT models - Project 2020-21
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
+- [Opinion mining](https://github.com/icezimmer/HLTproject) - [Giuseppe Lombardi](https://github.com/icezimmer) - Project 2021-2022
 - [Hate Speech Detection](https://github.com/GiovanniSorice/Hate_Speech_Detection) - [Giovanni Sorice](https://github.com/GiovanniSorice), [Francesco Corti](https://github.com/FraCorti) - Evalita-2020 challenge, build an Hate Speech Detector that given a tweet is able to recognize, if it contains hateful content or not - Project 2019-20
 </details>
-- [Target-aspect-sentiment joint detection](https://github.com/icezimmer/HLTproject) - [Giuseppe Lombardi](https://github.com/icezimmer)
 
 ## [ICT-INFR] ICT INFRASTRUCTURES
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
@@ -280,7 +280,6 @@ Collection of useful repositories divided per exam.
 - [Assignments](https://github.com/Brotherhood94/Assignments-Parallel-and-Distributed-Systems-) - [AlessandroBerti](https://github.com/Brotherhood94)
 - [Assignments + _Autonomic Farm Pattern_](https://github.com/giacomodeliberali/autonomic-farm) - [giacomodeliberali](https://github.com/giacomodeliberali) - Assignments and project 2018-19
 - [Assignments + _BSP_](https://github.com/LorenzoBellomo/ParallelAndDistributedSystem) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Assignments and project 2018-19
-- [Assignments 2022](https://github.com/icezimmer/SPM_lab) - [Giuseppe Lombardi](https://github.com/icezimmer)
 - [TSP with Genetic Algorithms](https://github.com/FraCorti/TSP-GeneticAlgorithm) - [FraCorti](https://github.com/FraCorti) - Project 2020-21
 - [_PRUDEnce_](https://github.com/karjudev/prudence-spm) - [karjudev](https://github.com/karjudev) - Project 2020-21 - Free choice
 - [*Parallel Boruvka*](https://github.com/matteodefra/Parallel_Boruvka) - [matteodefra](https://github.com/matteodefra) - Parallel implementation of the Boruvka (or Sollin's) algorithm to find the minimum spanning tree of an undirected graph
@@ -293,6 +292,8 @@ Collection of useful repositories divided per exam.
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
 - [**cpp-bps project**](https://gitlab.com/vincenzopalazzo/cpp-bps) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Project 2020/2021 related to frameworks developments with a curated C++ and cmake file.
 - [Video Motion Detect](https://github.com/jacons/Video-Motion-Detect) - [jacons](https://github.com/jacons) - Project 2021-22
+- [Assignments](https://github.com/icezimmer/SPM_lab) - [Giuseppe Lombardi](https://github.com/icezimmer) - Assignments 2021-2022
+- [Video Motion Detect](https://github.com/icezimmer/ParallelVideoMotionDetection) - [Giuseppe Lombardi](https://github.com/icezimmer) - Project 2021-22
 
 ## [P2P] PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [Voting DApp](https://github.com/reuseman/voting-dapp) - [Alex Colucci](https://github.com/reuseman) - FinalTerm 2021-21
