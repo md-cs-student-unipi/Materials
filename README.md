@@ -79,6 +79,8 @@ Collection of useful repositories divided per exam.
 <details open>
 <summary>Projects:</summary>
 
+- [Project 2021-22](https://github.com/nikodallanoce/ComputationalMathematics) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) and [Simone Rizzo](https://github.com/simone-rizzo):
+    - Solving linear least squares with L-BFGS, thin QR, conjugate gradient and standard momentum descent
 - [Project 2021-22](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra):
     - Solution of quadratic optimization problem using dual and subgradient methods
 - [Project 2020-21 (n° 3 ML)](https://github.com/AlexPasqua/CM-project) - [Alex Pasquali](https://github.com/AlexPasqua) and [Davide Montagno B.](https://github.com/DavideMontagno):
