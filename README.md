@@ -310,6 +310,7 @@ Collection of useful repositories divided per exam.
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
 - [**cpp-bps project**](https://gitlab.com/vincenzopalazzo/cpp-bps) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Project 2020/2021 related to frameworks developments with a curated C++ and cmake file.
 - [Video Motion Detect](https://github.com/jacons/Video-Motion-Detect) - [jacons](https://github.com/jacons) - Project 2021-22
+- [Video Motion Detect](https://github.com/icezimmer/ParallelVideoMotionDetection) - [Giuseppe Lombardi](https://github.com/icezimmer) - Project 2021-22
 </details>
 
 ## [P2P] PEER TO PEER SYSTEMS AND BLOCKCHAINS
