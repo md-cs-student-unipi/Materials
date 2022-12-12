@@ -21,6 +21,7 @@ Collection of useful repositories divided per exam.
 - [**Excercises 2020-21**](https://gitlab.com/vincenzopalazzo/ap-20) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Assigments and Haskell Excercises
 
 ## [ASE] ADVANCED SOFTWARE ENGINEERING
+- [_TheDarkPyotr_](https://github.com/ytbeepbeep) - [Hurry notes](https://github.com/TheDarkPyotr/ASE-2223) a.y. 2022-23
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
 - [_GoOutSafe_](https://github.com/Squad002) - [Squad002](https://github.com/Squad002) - Project 2020-21
