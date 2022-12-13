@@ -103,7 +103,8 @@ Collection of useful repositories divided per exam.
 - [**SIRVSD model with different age groups and heterogeneous contacts**](https://github.com/Musca23/SIRVSD-model-with-age-groups) - [Paolo Murgia](https://github.com/Musca23) - Project 2020-21
 
 ## [CNS] COMPUTATIONAL NEUROSCIENCE
-- [Assignments Lab 2022](https://github.com/icezimmer/CNS_lab) [Giuseppe Lombardi](https://github.com/icezimmer)
+- [Assignments Lab 2022](https://github.com/AlexPasqua/CNS-assignments) - [Alex Pasquali](https://github.com/AlexPasqua)
+- [Assignments Lab 2022](https://github.com/icezimmer/CNS_lab) - [Giuseppe Lombardi](https://github.com/icezimmer)
 - [Human activuty recognition by ESN](https://github.com/icezimmer/HARbyESNs) - [Giuseppe Lombardi]((https://github.com/icezimmer))
 
 ## [DM] DATA MINING
