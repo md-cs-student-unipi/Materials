@@ -44,6 +44,7 @@ Collection of useful repositories divided per exam.
 
 ## [AIF] ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ArtificialIntelligenceFundamentals/aif.pdf) - [fexed](https://github.com/fexed) - Notes in English
+- [**PokeBot, a Pokémon battle bot**](https://github.com/nikodallanoce/PokeBOT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2022-23
 - [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
 - [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [Donato Meoli](https://github.com/dmeoli)
 - [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [Donato Meoli](https://github.com/dmeoli)
@@ -53,7 +54,7 @@ Collection of useful repositories divided per exam.
 ## [BIO] BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
 
-## BUSINESS PROCESS MODELING
+## [BPM] BUSINESS PROCESS MODELING
 - Be the first to contribute, open a pull request with your material!
 
 ## [CPC] COMPETITIVE PROGRAMMING AND CONTESTS
@@ -105,7 +106,7 @@ Collection of useful repositories divided per exam.
 ## [CNS] COMPUTATIONAL NEUROSCIENCE
 - [Assignments Lab 2022](https://github.com/AlexPasqua/CNS-assignments) - [Alex Pasquali](https://github.com/AlexPasqua)
 - [Assignments Lab 2022](https://github.com/icezimmer/CNS_lab) - [Giuseppe Lombardi](https://github.com/icezimmer)
-- [Human activuty recognition by ESN](https://github.com/icezimmer/HARbyESNs) - [Giuseppe Lombardi]((https://github.com/icezimmer))
+- [Human activity recognition by ESN](https://github.com/icezimmer/HARbyESNs) - [Giuseppe Lombardi](https://github.com/icezimmer)
 
 ## [DM] DATA MINING
 <details open>
@@ -154,13 +155,12 @@ Collection of useful repositories divided per exam.
 <summary>Projects:</summary> 
 
 - [Named entity recognition for medical records](https://github.com/jacons/NERMedicalRecords) - [Jacons](https://github.com/jacons) - Project 2022-23
-    
+- [Target-aspect-sentiment joint detection](https://github.com/icezimmer/HLTproject) - [Giuseppe Lombardi](https://github.com/icezimmer), [Simone Rizzo](https://github.com/simone-rizzo) - Project 2021-22
 - [Document classification](https://github.com/EliaPiccoli/HLT-Project) - [Elia Piccoli](https://github.com/EliaPiccoli), [Alex Pasquali](https://github.com/AlexPasqua), [Nicola Gugole](https://github.com/NicolaGugole) - Automatic document classification tool for the Italian Public Administration - Project 2020-21
 - [Implementing NMT Models](https://github.com/nikodallanoce/HLT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Comparison beetween different NMT models - Project 2020-21
 - [Gendered Pronoun Resolution](https://github.com/burlamix/Gendered-Pronoun-Resolution) Gaspare Ferraro, Simone Spagnoli, Lucio Messina - an ensemble learning system to match pronouns with their references avoiding gender bias ([kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)).
 - [Hate Speech Detection](https://github.com/GiovanniSorice/Hate_Speech_Detection) - [Giovanni Sorice](https://github.com/GiovanniSorice), [Francesco Corti](https://github.com/FraCorti) - Evalita-2020 challenge, build an Hate Speech Detector that given a tweet is able to recognize, if it contains hateful content or not - Project 2019-20
 </details>
-- [Target-aspect-sentiment joint detection](https://github.com/icezimmer/HLTproject) - [Giuseppe Lombardi](https://github.com/icezimmer)
 
 ## [ICT-INFR] ICT INFRASTRUCTURES
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
@@ -242,7 +242,7 @@ Collection of useful repositories divided per exam.
 ## [IQC] INTRODUCTION TO QUANTUM COMPUTING
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntroductiontoQuantumComputing/IntroductiontoQuantumComputing.pdf) - [fexed](https://github.com/fexed) - Notes in English
 
-## LABORATORY FOR INNOVATIVE SOFTWARE
+## [LIS] LABORATORY FOR INNOVATIVE SOFTWARE
 - Be the first to contribute, open a pull request with your material!
 
 ## LABORATORY ON ICT STARTUP BUILDING
@@ -255,7 +255,7 @@ Collection of useful repositories divided per exam.
 - [Parsing Expression Grammars](https://github.com/piazzesiNiccolo/LCI-seminar-on-PEGs)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - My seminar for the final exam
 - [MicroC compiler](https://github.com/piazzesiNiccolo/microc-compiler)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Final project for the 2020/21 A.Y.
 
-## LANGUAGE-BASED TECHNOLOGY FOR SECURITY
+## [LBT] LANGUAGE-BASED TECHNOLOGY FOR SECURITY
 - [LBT 21-22](https://github.com/piazzesiNiccolo/LBT) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Homeworks and excercise done for the 2021-22 LBT course
 
 ## [ML] MACHINE LEARNING
@@ -356,7 +356,7 @@ Collection of useful repositories divided per exam.
 - [_RoboComment_](https://github.com/SmartAppUnipi/RoboComment) - Project 2019-20 (A)
 - [_ArtGuide_](https://github.com/SmartAppUnipi/ArtGuide) - Project 2019-20 (B)
 
-## SOCIAL AND ETHICAL ISSUES IN INFORMATION TECHNOLOGY
+## [S&EI] SOCIAL AND ETHICAL ISSUES IN INFORMATION TECHNOLOGY
 - [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lectures, final essay and midterm presentation
 
 ## [SVV] SOFTWARE VALIDATION AND VERIFICATION
