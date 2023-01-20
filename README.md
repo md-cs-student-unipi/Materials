@@ -43,13 +43,23 @@ Collection of useful repositories divided per exam.
 - Be the first to contribute, open a pull request with your material!
 
 ## [AIF] ARTIFICIAL INTELLIGENCE FUNDAMENTALS
+<details open>
+<summary>Notes:</summary>
+
+- [**AIMA notebooks**](https://github.com/aimacode/aima-python) - All the algorithms from the AIMA book
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ArtificialIntelligenceFundamentals/aif.pdf) - [fexed](https://github.com/fexed) - Notes in English
-- [**PokeBot, a Pokémon battle bot**](https://github.com/nikodallanoce/PokeBOT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2022-23
-- [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
 - [**Constraint Satisfaction Problems**: _Heuristics for Arc-Consistency Algorithms_ ](https://github.com/dmeoli/aima-python/blob/master/arc_consistency_heuristics.ipynb) - [Donato Meoli](https://github.com/dmeoli)
 - [**Propositional Logic**: _Improving Boolean Satisfiability Algorithms_](https://github.com/dmeoli/aima-python/blob/master/improving_sat_algorithms.ipynb) - [Donato Meoli](https://github.com/dmeoli)
 - [**Planning**: _Classical Planning Approaches_](https://github.com/dmeoli/aima-python/blob/master/classical_planning_approaches.ipynb) - [Donato Meoli](https://github.com/dmeoli)
 - [**Probabilistic Reasoning over Time**: _Viterbi Algorithm_](https://github.com/dmeoli/aima-python/blob/master/viterbi_algorithm.ipynb) - [Donato Meoli](https://github.com/dmeoli)
+</details>
+<details open>
+<summary>Projects:</summary>
+
+- [**PokeBot, a Pokémon battle bot**](https://github.com/nikodallanoce/PokeBOT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2022-23
+- [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
+</details>
+
 
 ## [BIO] BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
