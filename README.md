@@ -129,6 +129,7 @@ Collection of useful repositories divided per exam.
 <details open>
 <summary>Projects for the course of <b>Data Mining</b> in the MSc of <b>Computer Science</b></summary>
 
+- [Project 2022-23](https://github.com/alessandrocubic/dataMining) (Twitter dataset analysis) - [Alessandro Bucci](https://github.com/alessandrocubic), [Alberto Roberto Marinelli](https://github.com/AlbertoMarinelli), [Giacomo Cignoni](giacomo-cgn)
 - [Project 2021-22](https://github.com/nikodallanoce/DataMiningProject) (Tennis matches) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97)
 - [Project 2021-22](https://github.com/reuseman/tennis-match-analysis) (Tennis matches) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni)
 - [Project 2020-21](https://github.com/dilettagoglia/DataMining) (Customers analysis) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix)
