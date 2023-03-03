@@ -5,12 +5,15 @@ Collection of useful repositories divided per exam.
 
 [**Template Thesis Cover**](https://github.com/Brotherhood94/Thesis-Cover-Unipi) - [AlessandroBerti](https://github.com/Brotherhood94)
 
+**Tip:** Use crtl + f and type the course tag to quickly find it, if you want to look at each obligatory or elective course of your curriculum just type c- or e- followed by either ai/bdt/ict/soft.
 
 ## [ADB] ADVANCED DATABASES
+CFU: 9 Tags: C-BDT
 - [**Notes 2018-19**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Advanced%20Database) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Formulary**](https://github.com/md-cs-student-unipi/Advance-Databases-Formulary/) - [GaspareG](https://github.com/GaspareG) - Physical operators cost and result size
 
 ## [AP] ADVANCED PROGRAMMING
+CFU: 9 Tags: C-ICT E-SOFT
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Programming) - feel free to integrate your notes and keep the repo updated
 - [**Exercises 2018-19**](https://github.com/giacomodeliberali/adv-programming) - [giacomodeliberali](https://github.com/giacomodeliberali) - Lab and assignments
 - [**Exercises 2018-19**](https://github.com/LorenzoBellomo/AdvancedProgramming) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Exercises and assignments
@@ -21,6 +24,7 @@ Collection of useful repositories divided per exam.
 - [**Excercises 2020-21**](https://gitlab.com/vincenzopalazzo/ap-20) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Assigments and Haskell Excercises
 
 ## [ASE] ADVANCED SOFTWARE ENGINEERING
+CFU: 9 Tags: C-ICT E-SOFT
 - [**Community Notes**](https://github.com/md-cs-student-unipi/Advanced-Software-Engineering) - feel free to integrate your notes and keep the repo updated
 - [_BeepBeep_](https://github.com/ytbeepbeep) - [yellow-team](https://github.com/ytbeepbeep) - Project 2018-19
 - [_GoOutSafe_](https://github.com/Squad002) - [Squad002](https://github.com/Squad002) - Project 2020-21
@@ -30,19 +34,23 @@ Collection of useful repositories divided per exam.
 - [mmiab-main](https://github.com/piazzesiNiccolo/mmiab-main) - A.Y 2021/22 second team assignment
 
 ## [AD] ALGORITHM DESIGN
+CFU: 9 Tags: C-SOFT
 - [_The Power of Two Choices_](https://github.com/guanaco96/The_Power_of_Two_Choices) - [guanaco96](https://github.com/guanaco96) - Final report 2018-19
 - [_An FPT Algorithm for Approximated Threewidth_](https://github.com/laurab1/Approximated-Threewidth-Report) - [laurab1](https://github.com/laurab1) - Final report 2018-19
 
 ## [AE] ALGORITHM ENGINEERING
+CFU: 9 Tags: C-BDT C-ICT E-AI
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/AlgorithmEngineering/algeng_notes.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Notes 2018-19**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Exercises**](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams from 2010 to 2018
 - [**Algorithm implementation**](https://github.com/GaspareG/AlgorithmEngineering) - [GaspareG](https://github.com/GaspareG) - Implementation in C++ of some the algorithms seen in the course
 
 ## ALGORITHMIC GAME THEORY
+CFU: 6 Tags: E-AI E-BDT E-ICT E-SOFT
 - Be the first to contribute, open a pull request with your material!
 
 ## [AIF] ARTIFICIAL INTELLIGENCE FUNDAMENTALS
+CFU: 6 Tags: C-AI
 <details open>
 <summary>Notes:</summary>
 
@@ -62,12 +70,15 @@ Collection of useful repositories divided per exam.
 
 
 ## [BIO] BIOINFORMATICS
+CFU: 6 Tags: C-BDT E-SOFT
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
 
 ## [BPM] BUSINESS PROCESS MODELING
+CFU: 6 Tags: E-ICT
 - Be the first to contribute, open a pull request with your material!
 
 ## [CPC] COMPETITIVE PROGRAMMING AND CONTESTS
+CFU: 6 Tags: C-SOFT
 - [**Exercises 2018-19**](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks and some exams
 - [**Exercises 2018-19**](https://github.com/guanaco96/Competitive-Programming) - [lorenzo2beretta](https://github.com/lorenzo2beretta) - Homeworks solutions
 - [**Exercises 2017-18**](https://github.com/lapotolo/CompetitiveProgramming) - [lapotolo](https://github.com/lapotolo) - Homeworks solutions
@@ -78,9 +89,11 @@ Collection of useful repositories divided per exam.
 - [**Report on Union Find**](https://github.com/piazzesiNiccolo/UnionFind-report)- [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - my report on Union-Find data structures
 
 ## [CHL] COMPUTATIONAL HEALTH LABORATORY
+CFU: 6 Tags: E-AI E-BDT
 - [Pathway analysis and merging](https://github.com/nikodallanoce/ComputationalHealthLaboratory) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97), [Andrea Zuppolini](https://github.com/AndreZupp) - Project 2021-22
 
 ## [CM] COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
+CFU: 9 Tags: C-AI C-BDT E-SOFT
 <details open>
 <summary>Notes:</summary>
 
@@ -110,15 +123,22 @@ Collection of useful repositories divided per exam.
 </details>
 
 ## [CMCS] COMPUTATIONAL MODELS FOR COMPLEX SYSTEMS
+CFU: 6 Tags: E-AI E-BDT E-SOFT
 - [Cellular automata for highway traffic control](https://github.com/nikodallanoce/TrafficAutomata) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2021-22
 - [**SIRVSD model with different age groups and heterogeneous contacts**](https://github.com/Musca23/SIRVSD-model-with-age-groups) - [Paolo Murgia](https://github.com/Musca23) - Project 2020-21
 
 ## [CNS] COMPUTATIONAL NEUROSCIENCE
+CFU: 6 Tags: E-AI
 - [Assignments Lab 2022](https://github.com/AlexPasqua/CNS-assignments) - [Alex Pasquali](https://github.com/AlexPasqua)
 - [Assignments Lab 2022](https://github.com/icezimmer/CNS_lab) - [Giuseppe Lombardi](https://github.com/icezimmer)
 - [Human activity recognition by ESN](https://github.com/icezimmer/HARbyESNs) - [Giuseppe Lombardi](https://github.com/icezimmer)
 
+## [CL] Continual Learning
+CFU: 6 Tags: E-AI
+- Be the first to contribute, open a pull request with your material!
+
 ## [DM] DATA MINING
+CFU: 9 Tags: C-BDT E-AI E-ICT E-SOFT
 <details open>
 <summary>Notes:</summary>
 
@@ -152,10 +172,12 @@ Collection of useful repositories divided per exam.
 </details>
 
 ## [FOC] FOUNDATION OF COMPUTING
+CFU: 6 Tags: E-SOFT
 - [_Decomposition_Structures_for_SCEPs_](https://github.com/laurab1/Decomposition-Structures-for-SCEPs) - [laurab1](https://github.com/laurab1) - Seminar for the final exam 2018-19
 - [Rewriting Logic](https://github.com/piazzesiNiccolo/foc-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on rewriting logic.
 
 ## [HLT] HUMAN LANGUAGE TECHNOLOGIES
+CFU: 9 Tags: C-AI E-BDT
 <details open>
 <summary>Notes:</summary>
 
@@ -173,15 +195,18 @@ Collection of useful repositories divided per exam.
 </details>
 
 ## [ICT-INFR] ICT INFRASTRUCTURES
+CFU: 6 Tags: C-ICT E-BDT E-SOFT
 - [**Community Notes**](https://github.com/md-cs-student-unipi/ict-infrastructures) - feel free to integrate your notes and keep the repo updated
 
 ## [ICT-RA] ICT RISK ASSESSMENT
+CFU: 9 Tags: C-ICT E-BDT
 - [_LightNeuron beamer_](https://github.com/hybrs/LightNeuron-beamer) - [hybrs](https://github.com/hybrs) - Seminar for the final exam 2018-19: Beamer presentation on TURLA LIGHTNEURON
 - [_OpenSSH-Backdoors_](https://github.com/GaspareG/OpenSSH-Backdoors) - [GaspareG](https://github.com/GaspareG) - Seminar for the final exam 2018-19: A landscape of OpenSSH backdoors
 - [_GreyBox Fuzzing_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/GreyBoxFuzzing.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 - [_IMD Security_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/IMDSecurity.pdf) - [Paoletti Riccardo](https://github.com/Polletz) - 2021
 
 ## [IR] INFORMATION RETRIEVAL
+CFU: 6 Tags: C-BDT E-AI E-ICT E-SOFT
 - [**Notes 2021-22**](https://github.com/robbespo00/Information-Retrieval-Notes) - [robbespo00](https://github.com/robbespo00) - English
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
@@ -190,6 +215,7 @@ Collection of useful repositories divided per exam.
 - [**Graph DB Presentation**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/-/tree/master/InformationRetreival/graph_db_presentation) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - A presentation about Graph Databases.
 
 ## [ISPR] INTELLIGENT SYSTEMS FOR PATTERN RECOGNITION
+CFU: 9 Tags: C-AI E-ICT
 <details open>
 <summary>Notes and materials:</summary>
 
@@ -250,25 +276,30 @@ Collection of useful repositories divided per exam.
 </details>
 
 ## [IQC] INTRODUCTION TO QUANTUM COMPUTING
+CFU: 6 Tags: E-AI E-BDT E-ICT E-SOFT
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntroductiontoQuantumComputing/IntroductiontoQuantumComputing.pdf) - [fexed](https://github.com/fexed) - Notes in English
 
 ## [LIS] LABORATORY FOR INNOVATIVE SOFTWARE
+CFU: 6 Tags: C-SOFT
 - Be the first to contribute, open a pull request with your material!
 
 ## LABORATORY ON ICT STARTUP BUILDING
+CFU: 6 Tags: E-AI E-BDT E-ICT E-SOFT
 - Be the first to contribute, open a pull request with your material!
 
-
 ## [LCI] LANGUAGES, COMPILERS AND INTERPRETERS
+CFU: 9 Tags: C-SOFT
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
 - [**Seminar 2020-21**](https://gitlab.com/vincenzopalazzo/competitiveprogrammingreport/uploads/aa75df10ffe8649e665d2526e14b26ae/oop_procedure_abstraction.pdf) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar on Procedure Abstraction from an OOP point of view
 - [Parsing Expression Grammars](https://github.com/piazzesiNiccolo/LCI-seminar-on-PEGs)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - My seminar for the final exam
 - [MicroC compiler](https://github.com/piazzesiNiccolo/microc-compiler)  - [piazzesiNiccolo](https://github.com/piazzesiNiccolo/) - Final project for the 2020/21 A.Y.
 
 ## [LBT] LANGUAGE-BASED TECHNOLOGY FOR SECURITY
+CFU: 9 Tags: E-ICT E-SOFT
 - [LBT 21-22](https://github.com/piazzesiNiccolo/LBT) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - Homeworks and excercise done for the 2021-22 LBT course
 
 ## [ML] MACHINE LEARNING
+CFU: 9 Tags: C-AI E-BDT E-ICT E-SOFT
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/MachineLearning/ML.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [Project 2020-21](https://github.com/AlexPasqua/NNs-from-scratch) - [Alex Pasquali](https://github.com/AlexPasqua) and [Gaetano Antonicchio](https://github.com/gaetanoantonicchio) (project type A + report)
 - [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A + report with lecturer feedback).
@@ -281,12 +312,14 @@ Collection of useful repositories divided per exam.
 - [Project 2021-22](https://github.com/jacons/Neural_Network_from_scratch) - [jacons](https://github.com/jacons) Neural Network from scratch
 
 ## [MCPS] MOBILE AND CYBER-PHYSICAL SYSTEMS
+CFU: 9 Tags: C-ICT E-AI E-BDT E-SOFT
 - [S.E.B. Smart Environment Bot](https://github.com/nikodallanoce/MCPS) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2020-21
 - [Smart Street Lights IoT](https://github.com/Street-Lights-IOT)  - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso) - Project 2020-21
 - [_eWee: user wellness and energy efficience_](https://github.com/daquinoaldo/eWee) - [daquinoaldo](https://github.com/daquinoaldo), [samuelesabella](https://github.com/samuelesabella), [dtortorella](https://github.com/dtortorella) - Project 2018-19 (home automation)
 - [_SmartCoffee: IoT + AI to remove queues_](https://github.com/andybbruno/Mobile) - [Andrea Bruno](https://github.com/andybbruno), [Ruggiero Santo](https://github.com/Ruggiero-Santo) - Project 2018-19
 
 ## [PDS/SPM] PARALLEL AND DISTRIBUTED SYSTEMS: PARADIGMS AND MODELS
+CFU: 9 Tags: C-AI C-BDT E-ICT E-SOFT
 - [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
 
 <details open>
@@ -327,6 +360,7 @@ Collection of useful repositories divided per exam.
 </details>
 
 ## [P2P] PEER TO PEER SYSTEMS AND BLOCKCHAINS
+CFU: 6 Tags: C-ICT E-AI E-BDT
 - [Voting DApp](https://github.com/reuseman/voting-dapp) - [Alex Colucci](https://github.com/reuseman) - FinalTerm 2021-21
 - [_SmartAuctions_](https://github.com/lucacorbucci/SmartAuctions) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19 (blockchain)
 - [_Analysing Kademlia DHT_](https://github.com/bongi23/Analysing-the-Kademlia-DHT) - [bongi23](https://github.com/bongi23) - MidTerm 2018-19
@@ -344,37 +378,47 @@ Collection of useful repositories divided per exam.
 - [Votes Platform](https://gitlab.com/vincenzopalazzo/peer-to-peer-systems-and-blockchains/-/tree/master/votes_platform) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Final MidTerm 2020/2021
 
 ## [PSC] PRINCIPLES FOR SOFTWARE COMPOSITION
+CFU: 9 Tags: C-SOFT
 - [**derivationtree project**](https://gitlab.com/vincenzopalazzo/derivationtree) - [vincenzopalazzo](https://github.com/vincenzopalazzo) IMP derivation tree project.
 - [**Q&A for Oral Exam**](https://github.com/gabryon99/psc-2021-22) - [gabryon99](https://github.com/gabryon99) Cheat-sheet containing answers for the oral exam questions.
 
 ## ROBOTICS
+CFU: 6 Tags: E-AI 
 - [_Mind map_](https://github.com/dilettagoglia/Robotics) - [Diletta Goglia](https://github.com/dilettagoglia) - Map of the whole programme of ROB course, A.Y. 2019/20
 
 ## [SLV] SCIENTIFIC AND LARGE DATA VISUALIZATION
+CFU: 6 Tags: E-BDT
 - [_dblp.info: a data visualization website about dblp data_](https://github.com/GaspareG/dblp.info) - [GaspareG](https://github.com/GaspareG) - Project 2017-18
 - [_d3 edge crossing minimization: draw graphs minimising the number of edge crossings_](https://bitbucket.org/melfnt/d3-edge-crossing-minimization) - Lucio Messina - Project 2017-18
 
 ## [SMV] SECURITY METHODS AND VERIFICATION
+CFU: 9 Tags: 
 - [_A Process Algebra for Quantum Processes_](https://github.com/laurab1/A-Process-Algebra-for-Quantum-Processes) - [laurab1](https://github.com/laurab1) - Seminar 2018-19
 - [_Checking Security of Java Bytecode by Abstract Interpretation_](https://github.com/md-cs-student-unipi/Materials/blob/master/Seminars/SecurityJavaBytecode.pdf) - [LorenzoBellomo](https://github.com/LorenzoBellomo) - Seminar 2018-19
 
 ## [SW] SEMANTIC WEB
+CFU: 6 Tags: E-AI
 - [_Semantic Web_](https://github.com/dilettagoglia/Semantic-Web) - [Diletta Goglia](https://github.com/dilettagoglia) - Final project and Lecture notes
 - [_Semantic Web_](https://github.com/FedericoMz/Semantic-Web) - [Federico Mazzoni](https://github.com/FedericoMz) - Final project (ontology and answers)
 
 ## [SA] SMART APPLICATIONS
+CFU: 9 Tags: C-AI E-SOFT
 - [_RoboComment_](https://github.com/SmartAppUnipi/RoboComment) - Project 2019-20 (A)
 - [_ArtGuide_](https://github.com/SmartAppUnipi/ArtGuide) - Project 2019-20 (B)
 
 ## [S&EI] SOCIAL AND ETHICAL ISSUES IN INFORMATION TECHNOLOGY
+CFU: 6 Tags: E-AI E-BDT
 - [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lectures, final essay and midterm presentation
 
 ## [SVV] SOFTWARE VALIDATION AND VERIFICATION
+CFU: 9 Tags: C-SOFT E-ICT
 - [SPIN by Examples](https://gitlab.com/vincenzopalazzo/spin-by-examples) - [vincenzopalazzo](https://github.com/vincenzopalazzo) - Seminar 2021/2022 about SPIN.
 - [Separation Logic](https://github.com/piazzesiNiccolo/svv-seminar) - [piazzesiNiccolo](https://github.com/piazzesiNiccolo) - 2021/22 seminar on separation logic.
 
 ## WIRELESS NETWORKS OF EMBEDDED SYSTEMS
+CFU: 6 Tags: E-ICT
 - Be the first to contribute, open a pull request with your material!
 
 ## 3D GEOMETRIC MODELING & PROCESSING
+CFU: 6 Tags: E-AI E-BDT
 - Be the first to contribute, open a pull request with your material!
