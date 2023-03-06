@@ -40,6 +40,7 @@ CFU: 9 Tags: C-SOFT
 
 ## [AE] ALGORITHM ENGINEERING
 CFU: 9 Tags: C-BDT C-ICT E-AI
+- [**Notes 2022-23**](https://github.com/drw0if/Appunti/releases/tag/algorithm_engineering) - [drw0if](https://github.com/drw0if) - Notes in English
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/AlgorithmEngineering/algeng_notes.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Notes 2018-19**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Exercises**](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams from 2010 to 2018
@@ -141,14 +142,13 @@ CFU: 6 Tags: E-AI
 CFU: 9 Tags: C-BDT E-AI E-ICT E-SOFT
 <details open>
 <summary>Notes:</summary>
-
 - [**Notes 2020-2021**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth),  [Federico Mazzoni](https://github.com/FedericoMz) - in Italian
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Data%20Mining) - [lucacorbucci](https://github.com/lucacorbucci) 
 </details>
 
 <details open>
 <summary>Projects for the course of <b>Data Mining</b> in the MSc of <b>Computer Science</b></summary>
-
+- [Project 2022-23](https://github.com/alessandrocubic/dataMining) (Twitter dataset analysis) - [Alessandro Bucci](https://github.com/alessandrocubic), [Alberto Roberto Marinelli](https://github.com/AlbertoMarinelli), [Giacomo Cignoni](giacomo-cgn)
 - [Project 2021-22](https://github.com/nikodallanoce/DataMiningProject) (Tennis matches) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97)
 - [Project 2021-22](https://github.com/reuseman/tennis-match-analysis) (Tennis matches) - [Alex Colucci](https://github.com/reuseman), [Domenico Romano](https://github.com/asertoPasso), [Jacopo Bandoni](https://github.com/JacopoBandoni)
 - [Project 2020-21](https://github.com/dilettagoglia/DataMining) (Customers analysis) - [Diletta Goglia](https://github.com/dilettagoglia), [Marco Petix](https://github.com/marcopetix)
