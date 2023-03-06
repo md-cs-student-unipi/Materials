@@ -34,6 +34,7 @@ Collection of useful repositories divided per exam.
 - [_An FPT Algorithm for Approximated Threewidth_](https://github.com/laurab1/Approximated-Threewidth-Report) - [laurab1](https://github.com/laurab1) - Final report 2018-19
 
 ## [AE] ALGORITHM ENGINEERING
+- [**Notes 2022-23**](https://github.com/drw0if/Appunti/releases/tag/algorithm_engineering) - [drw0if](https://github.com/drw0if) - Notes in English
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/AlgorithmEngineering/algeng_notes.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Notes 2018-19**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Algorithm%20Engineering) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:
 - [**Exercises**](https://github.com/flandolfi/ALE-exercises) - [flandolfi](https://github.com/flandolfi) - A collection of exercises (with solutions) from past exams from 2010 to 2018
