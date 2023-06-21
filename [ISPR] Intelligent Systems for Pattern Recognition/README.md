@@ -4,7 +4,7 @@
 - **Elective:** ICT
 - **CFU:** 9
 - **Semester:** Second
-- **Further infos:** Untile the a.y. 2020-21 the course was 6 CFUs.
+- **Further infos:** Until the a.y. 2020-21 the course was 6 CFUs.
 
 ## Notes
 - [**Notes 2021-22**](https://github.com/gdacciaro/UniPi-ISPR-Materials/blob/main/notes/ISPR_Acciaro_notes.pdf) - [G.D.Acciaro](https://github.com/gdacciaro) - Notes in English

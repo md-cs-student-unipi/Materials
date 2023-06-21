@@ -5,6 +5,10 @@
 - **CFU:** 9
 - **Semester:** First
 
+## Warning
+**Do not publish any file about the report (e.g.: the pdf or any .tex file) inside your repository.**
+If you have already added the report, [check the following link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) on how to remove any trace from your repository and its commits' history.
+
 ## Notes
 - [Notes 2021-22](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [Appunti ottimizzazione](CM_Ottimizzazione.pdf) - Federica Di Pasquale
