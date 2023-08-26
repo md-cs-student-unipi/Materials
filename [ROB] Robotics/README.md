@@ -9,4 +9,4 @@
 - [_Mind map_](https://github.com/dilettagoglia/Robotics) - [Diletta Goglia](https://github.com/dilettagoglia) - Map of the whole programme of ROB course, A.Y. 2019/20
 
 ## Projects
-- Be the first to contribute, open a pull request with your material!
+- [Husky robot navigation](https://github.com/JacopoRaffi/Robotic_Project) - [JacopoRaffi](https://github.com/JacopoRaffi), [Simone Marzeddu](https://github.com/SimoneMarzeddu) - Project 2022-23
