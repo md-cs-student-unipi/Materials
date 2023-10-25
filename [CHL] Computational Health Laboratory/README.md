@@ -9,6 +9,7 @@
 - Be the first to contribute, open a pull request with your material!
 
 ## Projects
+- [Pathway analysis](https://github.com/JacopoRaffi/Pathways_Analysis) - [Jacopo Raffi](https://github.com/JacopoRaffi), [Smone Marzeddu](https://github.com/SimoneMarzeddu) - Project 2022-23
 - [Pathway analysis and merging](https://github.com/nikodallanoce/ComputationalHealthLaboratory) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97), [Andrea Zuppolini](https://github.com/AndreZupp) - Project 2021-22
 
 - [Literature Mining for Neurodegenerative disease](https://github.com/jacons/LMining-Neurodegenerative) - [jacons](https://github.com/jacons), [Geremia Pompei](https://github.com/GeremiaPompei) - Project 2022-23
