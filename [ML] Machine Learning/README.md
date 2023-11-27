@@ -6,6 +6,7 @@
 - **Semester:** First
 
 ## Notes
+- [**Notes 2022-23**](https://github.com/gabena98/Master-Degree-Notes/blob/main/ML/MACHINE%20LEARNING.pdf) - [Gabriele Benanti](https://github.com/gabena98) - Equations and theorems with proofs   
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/MachineLearning/ML.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/MachineLearning/ML_Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in english :en:
 - [**Notes 2019-20**](https://github.com/wikilele/ml-notes) - [wikilele](https://github.com/wikilele) - Summary done while preparing for the exam
