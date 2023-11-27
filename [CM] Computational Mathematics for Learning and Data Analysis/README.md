@@ -10,6 +10,8 @@
 - [Appunti ottimizzazione](CM_Ottimizzazione.pdf) - Federica Di Pasquale
 
 ## Projects
+- [Project 2022-23](https://github.com/icezimmer/ConstrainedOptimization) - [Giuseppe Lombardi](https://github.com/icezimmer) and [Emanuele Ludovico Ungaro](https://github.com/Otnakp):
+    - Constrained optimization on disjoint simplices using a Frank-Wolfe-type algorithm
 - [Project 2021-22](https://github.com/nikodallanoce/ComputationalMathematics) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Alessandro Ristori](https://github.com/RistoAle97) and [Simone Rizzo](https://github.com/simone-rizzo):
     - Solving linear least squares with L-BFGS, thin QR, conjugate gradient and standard momentum descent
 - [Project 2021-22](https://github.com/matteodefra/Quadratic_disjoint_simplices) - [matteodefra](https://github.com/matteodefra):
