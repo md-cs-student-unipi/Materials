@@ -21,6 +21,7 @@
 - [Assignments 2022](https://github.com/icezimmer/SPM_lab) - [Giuseppe Lombardi](https://github.com/icezimmer)
 
 ## Projects
+- [Wavefront computation](https://github.com/gabena98/PDS_project) - [Gabriele Benanti](https://github.com/gabena98) - Project 2023-24
 - [TSP with Genetic Algorithms](https://github.com/JacopoRaffi/TSP-Genetic-Algorthm) - [JacopoRaffi](https://github.com/JacopoRaffi) - Project 2022-23
 - [Video motion detect](https://github.com/AlexPasqua/SPM-project) - [Alex Pasquali](https://github.com/AlexPasqua) - Project 2021-22
 - [TSP with Genetic Algorithms](https://github.com/FraCorti/TSP-GeneticAlgorithm) - [FraCorti](https://github.com/FraCorti) - Project 2020-21
