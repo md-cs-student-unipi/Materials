@@ -6,6 +6,8 @@
 - **Semester:** First
 
 ## Notes
+- [**Notes 2023-24**](https://github.com/gabena98/Master-Degree-Notes/blob/main/AE/Algorithm%20engineering%20.pdf) - [Gabriele Benanti](https://github.com/gabena98) - Theory part
+- [**Notes 2023-24**](https://github.com/gabena98/Master-Degree-Notes/blob/main/AE/Algorithm%20engineering%20exercises%20.pdf) - [Gabriele Benanti](https://github.com/gabena98) - Exercises
 - [**Notes 2022-23**](https://github.com/icezimmer/AEnotes) - [Giuseppe Lombardi](https://github.com/icezimmer) - Handwritten notes with pseudocodes and all theorems with proofs
 - [**Notes 2022-23**](https://github.com/drw0if/Appunti/releases/tag/algorithm_engineering) - [drw0if](https://github.com/drw0if) - Notes in English
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/AlgorithmEngineering/algeng_notes.pdf) - [fexed](https://github.com/fexed) - Notes in English
