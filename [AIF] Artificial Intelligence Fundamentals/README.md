@@ -16,3 +16,5 @@
 ## Projects
 - [**PokeBot, a Pokémon battle bot**](https://github.com/nikodallanoce/PokeBOT) - [Niko Dalla Noce](https://github.com/nikodallanoce), [Giuseppe Lombardi](https://github.com/icezimmer), [Alessandro Ristori](https://github.com/RistoAle97) - Project 2022-23
 - [**Constraint Satisfaction Problems**: _Solver for Kakuro ](https://github.com/MarioBonse/KakuroSolverCSP) - [MarioBonse](https://github.com/MarioBonse)
+- [**Minihack Crossing River**](https://github.com/JacopoRaffi/Minihack_Crossing_River) - [Chiara Cecchetti](https://github.com/cecchiara99) - [Nicola Emmolo](https://github.com/nicolaemmolo) -
+[Andrea Piras](https://github.com/aprs3) - [Jacopo Raffi](https://github.com/JacopoRaffi) 
