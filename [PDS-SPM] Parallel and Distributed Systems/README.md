@@ -9,6 +9,7 @@
 - [**Utility: Docker container**](https://github.com/matteo-ronchetti/PDS-Docker/) - Matteo Ronchetti - Docker container with GCC 8.3, GRPPI and rplsh that can be used to compile projects for the course
 
 ## Notes
+- [**Distributed Notes 2022-23**] (https://github.com/lorenzoleuzzi1/unipi/blob/main/spm/spm-distributed_notes.pdf) - [lorenzoleuzzi1] - Notes for the distributed systems part of the course.
 - [**Notes 2019-20**](https://github.com/DavideMontagno/Magistrale/blob/master/Parallel/Theory.pdf) - [davidemontagnob](https://github.com/DavideMontagno/) - in italian :it:
 - [**Notes**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Parallel%20and%20Distributed%20Systems%20Paradigms%20and%20Models) - [lucacorbucci](https://github.com/lucacorbucci), [AlessandroBerti](https://github.com/Brotherhood94) - in italian :it:
 
