@@ -7,7 +7,8 @@
 - **Further infos:** Untile the a.y. 2020-21 the course was 6 CFUs.
 
 ## Notes
-- [**Notes 2022-23**] (https://github.com/lorenzoleuzzi1/unipi/blob/main/ispr/ispr-notes.pdf) - [lorenzoleuzzi1]
+- [**Notes 2023-24**](https://github.com/FabriDeCastelli/ISPR-23-24/blob/main/Notes23-24.pdf) - [Fabrizio De Castelli](https://github.com/FabriDeCastelli) and [Francesco Aliprandi](https://github.com/francealip) - Complete and detailed notes in english
+- [**Notes 2022-23**](https://github.com/lorenzoleuzzi1/unipi/blob/main/ispr/ispr-notes.pdf) - [lorenzoleuzzi1]
 - [**Notes 2022-23**](https://github.com/gabena98/Master-Degree-Notes/blob/main/ISPR/Intelligent%20systems%20for%20pattern%20recognition%20.pdf) - [Gabriele Benanti](https://github.com/gabena98) - No CNN 
 - [**Notes 2021-22**](https://github.com/gdacciaro/UniPi-ISPR-Materials/blob/main/notes/ISPR_Acciaro_notes.pdf) - [G.D.Acciaro](https://github.com/gdacciaro) - Notes in English
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/IntelligentSystemsforPatternRecognition/IntelligentSystemsforPatternRecognition.pdf) - [fexed](https://github.com/fexed) - Notes in English
