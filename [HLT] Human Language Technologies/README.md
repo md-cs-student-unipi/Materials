@@ -9,6 +9,7 @@
 - [**Notes 2021-22**](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/HumanLanguageTechnologies/humanlanguagetechnologies.pdf) - [fexed](https://github.com/fexed) - Notes in English
 
 ## Projects
+- [Hate Speech Detection in Tweets](https://github.com/gabena98/Human-language-technologies) - [Gabriele Benanti](https://github.com/gaben98), [Francesco Mitola](https://github.com/frMitola), [Luca Marini](https://github.com/LucaMaro1) - Project 2023-24
 - [Named entity recognition for medical records](https://github.com/jacons/NERMedicalRecords) - [Jacons](https://github.com/jacons) - Project 2022-23
 - [Target-aspect-sentiment joint detection](https://github.com/icezimmer/HLTproject) - [Giuseppe Lombardi](https://github.com/icezimmer), [Simone Rizzo](https://github.com/simone-rizzo) - Project 2021-22
 - [Document classification](https://github.com/EliaPiccoli/HLT-Project) - [Elia Piccoli](https://github.com/EliaPiccoli), [Alex Pasquali](https://github.com/AlexPasqua), [Nicola Gugole](https://github.com/NicolaGugole) - Automatic document classification tool for the Italian Public Administration - Project 2020-21

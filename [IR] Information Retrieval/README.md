@@ -6,6 +6,7 @@
 - **Semester:** First
 
 ## Notes
+- [**Notes 2022-23**](https://github.com/gabena98/Master-Degree-Notes/blob/main/IR/Information%20retrieval%20excercises.pdf) - [Gabriele Benanti](https://github.com/gabena98) - Exercises
 - [**Notes 2021-22**](https://github.com/robbespo00/Information-Retrieval-Notes) - [robbespo00](https://github.com/robbespo00) - English
 - [**Notes 2019-20**](https://github.com/rmassidda/ir-2019) - [rmassidda](https://github.com/rmassidda) - in english :us:
 - [**Notes 2019-20**](https://github.com/lucacorbucci/Appunti/tree/master/Magistrale/Information%20Retrieval) - [lucacorbucci](https://github.com/lucacorbucci) - in italian :it:

@@ -6,6 +6,7 @@
 - **Semester:** First
 
 ## Notes
+- [Notes 2022-23](https://github.com/gabena98/Master-Degree-Notes/blob/main/CM/Computational%20mathematics%20Poloni.pdf) - [Gabriele Benanti](https://github.com/gabena98) - Numerical analysis theory part
 - [Notes 2021-22](https://github.com/fexed/Notes/blob/master/UniPi_CSMaster_AI/ComputationalMathematicsForLearningAndDataAnalysis/CompMatLearningDataAnalysis.pdf) - [fexed](https://github.com/fexed) - Notes in English
 - [Appunti ottimizzazione](CM_Ottimizzazione.pdf) - Federica Di Pasquale
 
