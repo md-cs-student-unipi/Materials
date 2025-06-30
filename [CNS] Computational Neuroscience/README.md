@@ -6,7 +6,7 @@
 - **Semester:** Second
 
 ## Notes
-- [**Notes 2024-25**]([https://github.com/FabriDeCastelli/ISPR-23-24/blob/main/Notes23-24.pdf](https://github.com/francealip/cns_lab/blob/main/Notes24-25.pdf)) - [Francesco Aliprandi](https://github.com/francealip) - Complete and detailed notes in english
+- [**Notes 2024-25**](https://github.com/francealip/cns_lab/blob/main/Notes24-25.pdf) - [Francesco Aliprandi](https://github.com/francealip) - Complete and detailed notes in english
 
 ## Assignments
 - [Assignments Lab 2022](https://github.com/AlexPasqua/CNS-assignments) - [Alex Pasquali](https://github.com/AlexPasqua)
